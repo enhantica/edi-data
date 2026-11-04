@@ -2,6 +2,28 @@
  "schema": "edi-data-index/1",
  "entries": [
   {
+   "id": "1530874",
+   "kind": "structure",
+   "name": "LaCoO3",
+   "description": "Rhombohedral perovskite, from the Crystallography Open Database",
+   "formula": "Co La O3",
+   "space_group": "R -3 c :R",
+   "source": "COD",
+   "authors": "Thornton, G.; Tofield, B.C.; Hewat, A.W.",
+   "journal": "Journal of Solid State Chemistry",
+   "volume": "61",
+   "first_page": "301",
+   "year": "1986",
+   "files": [
+    {
+     "path": "structures/1530874.cif",
+     "format": "cif",
+     "sha256": "b28b19535f3c826eb3032d23374ed1dd4e8afba8dca28a07633d5464552eba6b",
+     "bytes": 2223
+    }
+   ]
+  },
+  {
    "id": "pd-neut-cwl_cosio-d20-cosio",
    "kind": "structure",
    "name": "Co₂SiO₄ [Pnma]",
