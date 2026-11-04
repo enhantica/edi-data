@@ -137,6 +137,66 @@
    ]
   },
   {
+   "id": "pd-neut-cwl_cosio-d20_2k-cosio",
+   "kind": "structure",
+   "name": "Co₂SiO₄ [Pnma.1]",
+   "description": "Olivine at 2.3 K · Magnetic structure, k = 0",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    10.30806,
+    6.00219,
+    4.78739,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_cosio-d20_2k-cosio.edi",
+     "format": "edi",
+     "sha256": "37983b2243d249186d235bc0eb2b3d5acf78edb0872ddbd0f5314ef39c252443",
+     "bytes": 1611
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20_scan-213f-cosio",
+   "kind": "structure",
+   "name": "Co₂SiO₄ [Pnma.1]",
+   "description": "Cooling scan · 213 patterns from 497.4 to 2.3 K, fitted from 2.3 K up with the magnetic structure",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    10.30806,
+    6.00219,
+    4.78739,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_cosio-d20_scan-213f-cosio.edi",
+     "format": "edi",
+     "sha256": "70324d6326ee447d4c4d83d26918e6a7ce2f0fd929e261e999ee30af8d8b329a",
+     "bytes": 1623
+    }
+   ]
+  },
+  {
    "id": "pd-neut-cwl_cosio-d20_scan-cosio",
    "kind": "structure",
    "name": "Co₂SiO₄ [Pnma]",
@@ -1003,6 +1063,62 @@
      "format": "edi",
      "sha256": "8378801265ba8a0613ca8bec8ad2e70dc897320f2918c8ca8e1e799d270bb31e",
      "bytes": 32643
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20_2k-d20",
+   "kind": "experiment",
+   "name": "Co₂SiO₄ [Pnma.1]",
+   "description": "Olivine at 2.3 K · Magnetic structure, k = 0",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "structures": [
+    "pd-neut-cwl_cosio-d20_2k-cosio"
+   ],
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_cosio-d20_2k-d20.edi",
+     "format": "edi",
+     "sha256": "50e40518f4864b3e310c0b76de5d43d5f48af1a8b89191a6f03cfd9ab87e280d",
+     "bytes": 35252
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20_scan-213f-d20",
+   "kind": "experiment",
+   "name": "Co₂SiO₄ [Pnma.1]",
+   "description": "Cooling scan · 213 patterns from 497.4 to 2.3 K, fitted from 2.3 K up with the magnetic structure",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "structures": [
+    "pd-neut-cwl_cosio-d20_scan-213f-cosio"
+   ],
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_cosio-d20_scan-213f-d20.edi",
+     "format": "edi",
+     "sha256": "f647dd3cc5b10ab31a05ed5660f635c9df6090c44986cc8c0857db992fe4076f",
+     "bytes": 35256
     }
    ]
   },
@@ -2003,6 +2119,56 @@
      "format": "zip",
      "sha256": "5b3280fb4fa62dd07b429cea03a739c07e0a4ba4258de3654375b39f27c89676",
      "bytes": 14170
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20_2k",
+   "kind": "project",
+   "name": "Co₂SiO₄ [Pnma.1]",
+   "description": "Olivine at 2.3 K · Magnetic structure, k = 0",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_cosio-d20_2k.zip",
+     "format": "zip",
+     "sha256": "81ff7c54b5910a3af77c7378a37aae866c3d8dfdc3f191956de7d60d8ab35da5",
+     "bytes": 16109
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20_scan-213f",
+   "kind": "project",
+   "name": "Co₂SiO₄ [Pnma.1]",
+   "description": "Cooling scan · 213 patterns from 497.4 to 2.3 K, fitted from 2.3 K up with the magnetic structure",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_cosio-d20_scan-213f.zip",
+     "format": "zip",
+     "sha256": "6c9ea75d37f004360d562d21c369c6e55f97660d0c7b3b1341f4b04532455edb",
+     "bytes": 3359271
     }
    ]
   },
