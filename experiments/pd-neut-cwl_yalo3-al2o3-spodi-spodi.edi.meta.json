@@ -1,5 +1,9 @@
 {
  "id": "pd-neut-cwl_yalo3-al2o3-spodi-spodi",
+ "structures": [
+  "pd-neut-cwl_yalo3-al2o3-spodi-YAlO3",
+  "pd-neut-cwl_yalo3-al2o3-spodi-Al2O3"
+ ],
  "elements": [
   "Al",
   "O",

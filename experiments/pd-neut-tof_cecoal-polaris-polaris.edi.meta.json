@@ -1,5 +1,8 @@
 {
  "id": "pd-neut-tof_cecoal-polaris-polaris",
+ "structures": [
+  "pd-neut-tof_cecoal-polaris-cecoal"
+ ],
  "elements": [
   "Al",
   "Ce",

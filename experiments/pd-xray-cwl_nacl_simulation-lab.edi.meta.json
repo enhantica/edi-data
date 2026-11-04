@@ -1,5 +1,8 @@
 {
  "id": "pd-xray-cwl_nacl_simulation-lab",
+ "structures": [
+  "pd-xray-cwl_nacl_simulation-nacl"
+ ],
  "elements": [
   "Cl",
   "Na"

@@ -1,5 +1,8 @@
 {
  "id": "pd-neut-cwl_lmo-echidna-echidna",
+ "structures": [
+  "pd-neut-cwl_lmo-echidna-lmo"
+ ],
  "elements": [
   "Li",
   "Ni",

@@ -1,5 +1,8 @@
 {
  "id": "sc-neut-tof_taurine-senju-senju_2",
+ "structures": [
+  "sc-neut-tof_taurine-senju-taurine"
+ ],
  "elements": [
   "C",
   "H",

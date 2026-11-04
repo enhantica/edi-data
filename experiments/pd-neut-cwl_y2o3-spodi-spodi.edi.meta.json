@@ -1,5 +1,8 @@
 {
  "id": "pd-neut-cwl_y2o3-spodi-spodi",
+ "structures": [
+  "pd-neut-cwl_y2o3-spodi-y2o3"
+ ],
  "elements": [
   "O",
   "Y"

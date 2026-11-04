@@ -1,5 +1,8 @@
 {
  "id": "pd-neut-tof_si_simulation-sepd",
+ "structures": [
+  "pd-neut-tof_si_simulation-si"
+ ],
  "elements": [
   "Si"
  ],

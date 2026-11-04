@@ -1,5 +1,9 @@
 {
  "id": "pd-neut-tof_lbco-si-mcstas-mcstas",
+ "structures": [
+  "pd-neut-tof_lbco-si-mcstas-lbco",
+  "pd-neut-tof_lbco-si-mcstas-si"
+ ],
  "elements": [
   "Ba",
   "Co",

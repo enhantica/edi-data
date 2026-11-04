@@ -1,5 +1,8 @@
 {
  "id": "pd-neut-cwl_cosio-d20-d20",
+ "structures": [
+  "pd-neut-cwl_cosio-d20-cosio"
+ ],
  "elements": [
   "Co",
   "O",

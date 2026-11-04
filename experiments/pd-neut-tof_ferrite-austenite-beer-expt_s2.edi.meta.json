@@ -1,5 +1,9 @@
 {
  "id": "pd-neut-tof_ferrite-austenite-beer-expt_s2",
+ "structures": [
+  "pd-neut-tof_ferrite-austenite-beer-ferrite",
+  "pd-neut-tof_ferrite-austenite-beer-austenite"
+ ],
  "elements": [
   "Fe"
  ],

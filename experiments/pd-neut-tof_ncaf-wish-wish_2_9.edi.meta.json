@@ -1,5 +1,8 @@
 {
  "id": "pd-neut-tof_ncaf-wish-wish_2_9",
+ "structures": [
+  "pd-neut-tof_ncaf-wish-ncaf"
+ ],
  "elements": [
   "Al",
   "Ca",

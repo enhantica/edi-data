@@ -20,6 +20,11 @@ the sidecars together with each file's size and SHA-256 digest into one entry pe
 stable id, a kind (structure, experiment, data or project), the chemical formula in Hill notation,
 the elements, the space group and the cell when the file states them.
 
+An experiment entry lists the structures it links (`structures`, their entry ids), so loading it from
+the web brings them along. `journal-abbreviations.json` holds the ISO 4 journal abbreviations the
+app shows in a structure's reference, generated from JabRef's lists (CC0 1.0) with
+`python tools/data/build_journal_abbreviations.py <this folder>` in the edi repository.
+
 ## Generating the index
 
 The index is generated, never edited by hand, with the script in the edi repository:

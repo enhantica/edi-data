@@ -1,5 +1,8 @@
 {
  "id": "pd-neut-cwl_lbco-hrpt-hrpt",
+ "structures": [
+  "pd-neut-cwl_lbco-hrpt-lbco"
+ ],
  "elements": [
   "Ba",
   "Co",

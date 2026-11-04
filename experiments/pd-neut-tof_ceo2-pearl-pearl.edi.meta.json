@@ -1,5 +1,8 @@
 {
  "id": "pd-neut-tof_ceo2-pearl-pearl",
+ "structures": [
+  "pd-neut-tof_ceo2-pearl-ceo2"
+ ],
  "elements": [
   "Ce",
   "O"

@@ -1,5 +1,8 @@
 {
  "id": "pd-neut-cwl_cosio-d20_scan-d20",
+ "structures": [
+  "pd-neut-cwl_cosio-d20_scan-cosio"
+ ],
  "elements": [
   "Co",
   "O",
