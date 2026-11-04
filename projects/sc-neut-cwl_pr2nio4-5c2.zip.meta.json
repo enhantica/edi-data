@@ -1,5 +1,11 @@
 {
  "id": "sc-neut-cwl_pr2nio4-5c2",
+ "elements": [
+  "Ni",
+  "O",
+  "Pr"
+ ],
+ "formula": "Ni O Pr",
  "name": "Pr₂NiO₄ [Fmmm]",
  "description": "Single crystal · Anisotropic displacements and coordinates from a rough start",
  "radiation": "neutron",

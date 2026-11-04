@@ -1,5 +1,10 @@
 {
  "id": "pd-xray-cwl_nacl_simulation-lab",
+ "elements": [
+  "Cl",
+  "Na"
+ ],
+ "formula": "Cl Na",
  "name": "NaCl [Fm-3m]",
  "description": "Rock salt · Simulated Cu Kα₁ pattern without measured data · Monochromator polarization",
  "radiation": "xray",

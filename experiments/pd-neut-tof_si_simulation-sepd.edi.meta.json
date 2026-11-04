@@ -1,5 +1,9 @@
 {
  "id": "pd-neut-tof_si_simulation-sepd",
+ "elements": [
+  "Si"
+ ],
+ "formula": "Si",
  "name": "Silicon [Fd-3m]",
  "description": "Silicon standard · Simulated time-of-flight pattern without measured data",
  "radiation": "neutron",
