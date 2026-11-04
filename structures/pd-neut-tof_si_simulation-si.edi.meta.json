@@ -1,0 +1,6 @@
+{
+ "id": "pd-neut-tof_si_simulation-si",
+ "name": "Silicon [Fd-3m]",
+ "description": "Silicon standard · Simulated time-of-flight pattern without measured data",
+ "source": "EasyDiffraction"
+}

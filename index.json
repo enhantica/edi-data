@@ -1,0 +1,1943 @@
+{
+ "schema": "edi-data-index/1",
+ "entries": [
+  {
+   "id": "pd-neut-cwl_cosio-d20-cosio",
+   "kind": "structure",
+   "name": "Co₂SiO₄ [Pnma]",
+   "description": "Olivine · Coordinates, displacements and oxygen occupancies",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    10.3,
+    6.0,
+    4.8,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_cosio-d20-cosio.edi",
+     "format": "edi",
+     "sha256": "ed3e7f5594f4cab7b193440098431f483428082499f191b4d8640dd12a2d6c84",
+     "bytes": 648
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20_scan-cosio",
+   "kind": "structure",
+   "name": "Co₂SiO₄ [Pnma]",
+   "description": "Cooling scan · 155 patterns from 497.4 to 52.3 K · Magnetic frames left out",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    10.31,
+    6.0,
+    4.79,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_cosio-d20_scan-cosio.edi",
+     "format": "edi",
+     "sha256": "db297a9cb8148c8be36f3d5d52d5151e9b0f67e31ffcf92e52854a678c4f24d6",
+     "bytes": 644
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_hs-hrpt-hs",
+   "kind": "structure",
+   "name": "ZnCu₃(OD)₆Cl₂ [R-3m]",
+   "description": "Herbertsmithite · Deuterated kagome antiferromagnet · Bérar-Baldinozzi asymmetry",
+   "elements": [
+    "Cl",
+    "Cu",
+    "O",
+    "Zn"
+   ],
+   "space_group": "R -3 m",
+   "cell": [
+    6.85,
+    6.85,
+    14.1,
+    90.0,
+    90.0,
+    120.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_hs-hrpt-hs.edi",
+     "format": "edi",
+     "sha256": "3d18bdb07a5053f136abe3e69b51940389e439aea3ba47c2251fe5ce998a0e8b",
+     "bytes": 579
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lbco-hrpt-lbco",
+   "kind": "structure",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m]",
+   "description": "Cubic perovskite · La and Ba sharing one site · Profile, background, displacements",
+   "elements": [
+    "Ba",
+    "Co",
+    "La",
+    "O"
+   ],
+   "space_group": "P m -3 m",
+   "cell": [
+    3.88,
+    3.88,
+    3.88,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_lbco-hrpt-lbco.edi",
+     "format": "edi",
+     "sha256": "d1c245e00052e5ba22a07a5f26d645d97bc4576e369599467bfc85af224bfb04",
+     "bytes": 530
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lbco_simulation-lbco",
+   "kind": "structure",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m]",
+   "description": "Cubic perovskite · Simulated pattern without measured data",
+   "elements": [
+    "Ba",
+    "Co",
+    "La",
+    "O"
+   ],
+   "space_group": "P m -3 m",
+   "cell": [
+    3.88,
+    3.88,
+    3.88,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_lbco_simulation-lbco.edi",
+     "format": "edi",
+     "sha256": "c4cd9712556b9d39513b186e86d5c87a04455111c0e34ca064875e36ba5eabff",
+     "bytes": 522
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lmo-echidna-lmo",
+   "kind": "structure",
+   "name": "LiNiO₂ [R-3m]",
+   "description": "Layered oxide · Li/Ni site mixing · Occupancy constraints · TCH × FCJ asymmetry",
+   "elements": [
+    "Li",
+    "Ni",
+    "O"
+   ],
+   "space_group": "R -3 m",
+   "cell": [
+    2.88,
+    2.88,
+    14.18,
+    90.0,
+    90.0,
+    120.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_lmo-echidna-lmo.edi",
+     "format": "edi",
+     "sha256": "e9d889ae30298b4df82d49720b6ef23c181646c8afd8b8a44a68e455cf93f61d",
+     "bytes": 569
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_y2o3-spodi-y2o3",
+   "kind": "structure",
+   "name": "Y₂O₃ [Ia-3]",
+   "description": "Anisotropic β tensors tied by site symmetry · Coordinates, profile and background",
+   "elements": [
+    "O",
+    "Y"
+   ],
+   "space_group": "I a -3",
+   "cell": [
+    10.61,
+    10.61,
+    10.61,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_y2o3-spodi-y2o3.edi",
+     "format": "edi",
+     "sha256": "0035a2409b1fa26521d4b59c9520c37d8c4bb8c2ec9e53c50ff227ad87d53ccf",
+     "bytes": 812
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_yalo3-al2o3-spodi-Al2O3",
+   "kind": "structure",
+   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
+   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
+   "elements": [
+    "Al",
+    "O"
+   ],
+   "space_group": "R -3 c",
+   "cell": [
+    4.76,
+    4.76,
+    12.97,
+    90.0,
+    90.0,
+    120.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_yalo3-al2o3-spodi-Al2O3.edi",
+     "format": "edi",
+     "sha256": "37791064fcee7bd1e29a0b64b03c7f7b326c4b37ab97d4b01098e7e49aedb6b0",
+     "bytes": 482
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_yalo3-al2o3-spodi-YAlO3",
+   "kind": "structure",
+   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
+   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
+   "elements": [
+    "Al",
+    "O",
+    "Y"
+   ],
+   "space_group": "P b n m",
+   "cell": [
+    5.17,
+    5.33,
+    7.36,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_yalo3-al2o3-spodi-YAlO3.edi",
+     "format": "edi",
+     "sha256": "582a5e23201b519fced17407e697e46d11718a9b4d6b260c12df2ccaab5b1580",
+     "bytes": 529
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_cecoal-polaris-cecoal",
+   "kind": "structure",
+   "name": "CeCoAl₃ [Pmma]",
+   "description": "Structure and time-of-flight profile fit · 24-term Chebyshev background",
+   "elements": [
+    "Al",
+    "Ce",
+    "Co"
+   ],
+   "space_group": "P m m a",
+   "cell": [
+    7.65,
+    4.05,
+    6.91,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-tof_cecoal-polaris-cecoal.edi",
+     "format": "edi",
+     "sha256": "def09ded57c181a601e481deef7bf49b135374646e4b05a7e6939e44a5a6acf4",
+     "bytes": 561
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ceo2-pearl-ceo2",
+   "kind": "structure",
+   "name": "CeO₂ [Fm-3m]",
+   "description": "NBS SRM 674a standard · Calibration and profile fit · 6-term polynomial background",
+   "elements": [
+    "Ce",
+    "O"
+   ],
+   "space_group": "F m -3 m",
+   "cell": [
+    5.410495,
+    5.410495,
+    5.410495,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-tof_ceo2-pearl-ceo2.edi",
+     "format": "edi",
+     "sha256": "c0736a60e1ee6a225e5d068304ba28caf8f86b0ab1fd104c6b4fa67117f7e60e",
+     "bytes": 450
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ferrite-austenite-beer-austenite",
+   "kind": "structure",
+   "name": "Ferrite [Im-3m] / Austenite [Fm-3m]",
+   "description": "Instrument calibration · 2 McStas-simulated banks fitted jointly · Per-bank zero and resolution",
+   "elements": [
+    "Fe"
+   ],
+   "space_group": "F m -3 m",
+   "cell": [
+    3.6468,
+    3.6468,
+    3.6468,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-tof_ferrite-austenite-beer-austenite.edi",
+     "format": "edi",
+     "sha256": "8a0d6a8a8b3c20dea4553d4eec01e109d3e7f142038baaabe2d9f19442cb74eb",
+     "bytes": 446
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ferrite-austenite-beer-ferrite",
+   "kind": "structure",
+   "name": "Ferrite [Im-3m] / Austenite [Fm-3m]",
+   "description": "Instrument calibration · 2 McStas-simulated banks fitted jointly · Per-bank zero and resolution",
+   "elements": [
+    "Fe"
+   ],
+   "space_group": "I m -3 m",
+   "cell": [
+    2.886,
+    2.886,
+    2.886,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-tof_ferrite-austenite-beer-ferrite.edi",
+     "format": "edi",
+     "sha256": "ec49d823d61e5c7224a554dd51a842edd9465868af93a6b94209ae775e20d5d0",
+     "bytes": 443
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_lbco-si-mcstas-lbco",
+   "kind": "structure",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m] / Silicon [Fd-3m]",
+   "description": "2 phases · Simulated TOF pattern · Jorgensen profile",
+   "elements": [
+    "Ba",
+    "Co",
+    "La",
+    "O"
+   ],
+   "space_group": "P m -3 m",
+   "cell": [
+    3.8909,
+    3.8909,
+    3.8909,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-tof_lbco-si-mcstas-lbco.edi",
+     "format": "edi",
+     "sha256": "924577a5d681aa43253ffbc435048da628318f7d0290fedd3ca6bc9602dcdf4b",
+     "bytes": 534
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_lbco-si-mcstas-si",
+   "kind": "structure",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m] / Silicon [Fd-3m]",
+   "description": "2 phases · Simulated TOF pattern · Jorgensen profile",
+   "elements": [
+    "Si"
+   ],
+   "space_group": "F d -3 m",
+   "cell": [
+    5.43,
+    5.43,
+    5.43,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-tof_lbco-si-mcstas-si.edi",
+     "format": "edi",
+     "sha256": "d266b86077ac8cf3a8e35f802fcae5728244b9189f30dd17b8479f132e406304",
+     "bytes": 435
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ncaf-wish-ncaf",
+   "kind": "structure",
+   "name": "Na₂Ca₃Al₂F₁₄ [I2₁3]",
+   "description": "All five detector bank pairs fitted jointly · Jorgensen–Von Dreele profile · Per-bank calibration",
+   "elements": [
+    "Al",
+    "Ca",
+    "F",
+    "Na"
+   ],
+   "space_group": "I 21 3",
+   "cell": [
+    10.250256,
+    10.250256,
+    10.250256,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-tof_ncaf-wish-ncaf.edi",
+     "format": "edi",
+     "sha256": "7eefbd591ab966a95b10bf062be50d0302820a06b62f5207371857c408a0be99",
+     "bytes": 656
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_si-sepd-si",
+   "kind": "structure",
+   "name": "Silicon [Fd-3m]",
+   "description": "Silicon standard · Jorgensen–Von Dreele profile · Time-of-flight neutron powder data",
+   "elements": [
+    "Si"
+   ],
+   "space_group": "F d -3 m",
+   "cell": [
+    5.431,
+    5.431,
+    5.431,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-tof_si-sepd-si.edi",
+     "format": "edi",
+     "sha256": "a873319a522398a2c26fbd3b155bb8974a9af54f4fe381277f66f72777f448bc",
+     "bytes": 452
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_si_simulation-si",
+   "kind": "structure",
+   "name": "Silicon [Fd-3m]",
+   "description": "Silicon standard · Simulated time-of-flight pattern without measured data",
+   "elements": [
+    "Si"
+   ],
+   "space_group": "F d -3 m",
+   "cell": [
+    5.431,
+    5.431,
+    5.431,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-tof_si_simulation-si.edi",
+     "format": "edi",
+     "sha256": "1923e98e340ce5c3a6eb8f1febb921014d10df79310fab98574e8c0b6bd68bbd",
+     "bytes": 448
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-xray-cwl_pbso4-d1a-lab-pbso4",
+   "kind": "structure",
+   "name": "PbSO₄ [Pnma]",
+   "description": "Rietveld round-robin data · Neutron and X-ray patterns fitted jointly",
+   "elements": [
+    "O",
+    "Pb",
+    "S"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    8.47,
+    5.39,
+    6.95,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-xray-cwl_pbso4-d1a-lab-pbso4.edi",
+     "format": "edi",
+     "sha256": "24770242effa8a4d410836f2cef855fc6454d84e5f3cd2d2bd7ab760f21b3ba5",
+     "bytes": 614
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_lam7o3-p021-lam7o3",
+   "kind": "structure",
+   "name": "La(Ti,Cr,Mn,Fe,Co,Ni,Cu)O₃ [Pnma]",
+   "description": "High-entropy perovskite · Seven cations on one site · Synchrotron X-ray",
+   "elements": [
+    "Co",
+    "Cr",
+    "Cu",
+    "Fe",
+    "La",
+    "Mn",
+    "Ni",
+    "O",
+    "Ti"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    5.5,
+    7.7,
+    5.5,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-xray-cwl_lam7o3-p021-lam7o3.edi",
+     "format": "edi",
+     "sha256": "f3ac01debabaf3539ce5bb66a3cbb5f4974bd89ddec736b82bd94f2c10be4e47",
+     "bytes": 752
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_latp-bm01_scan-alpo4_c2221",
+   "kind": "structure",
+   "name": "LATP [R-3c] / AlPO₄ [C222₁] / AlPO₄ [P6₃mc]",
+   "description": "3 phases · 73 synchrotron patterns · Linked displacement parameters",
+   "elements": [
+    "Al",
+    "O",
+    "P"
+   ],
+   "space_group": "C 2 2 21",
+   "cell": [
+    6.97,
+    7.11,
+    7.004,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-xray-cwl_latp-bm01_scan-alpo4_c2221.edi",
+     "format": "edi",
+     "sha256": "b42662d5570b1a08f3b1df6451af8ff1f5c6e69ea3b40bd78f39dd2b181c5306",
+     "bytes": 625
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_latp-bm01_scan-alpo4_p63mc",
+   "kind": "structure",
+   "name": "LATP [R-3c] / AlPO₄ [C222₁] / AlPO₄ [P6₃mc]",
+   "description": "3 phases · 73 synchrotron patterns · Linked displacement parameters",
+   "elements": [
+    "Al",
+    "O",
+    "P"
+   ],
+   "space_group": "P 63 m c",
+   "cell": [
+    4.983,
+    4.9832407377064385,
+    9.504,
+    90.0,
+    90.0,
+    120.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-xray-cwl_latp-bm01_scan-alpo4_p63mc.edi",
+     "format": "edi",
+     "sha256": "350e4eb631946104099c05296a072d96fd63ed5a28e13ada6e081bfd77610d5e",
+     "bytes": 724
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_latp-bm01_scan-latp",
+   "kind": "structure",
+   "name": "LATP [R-3c] / AlPO₄ [C222₁] / AlPO₄ [P6₃mc]",
+   "description": "3 phases · 73 synchrotron patterns · Linked displacement parameters",
+   "elements": [
+    "Al",
+    "Li",
+    "O",
+    "P",
+    "Ti"
+   ],
+   "space_group": "R -3 c",
+   "cell": [
+    8.4953,
+    8.495251128959499,
+    20.8268,
+    90.0,
+    90.0,
+    120.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-xray-cwl_latp-bm01_scan-latp.edi",
+     "format": "edi",
+     "sha256": "2fa22f4a9a8554731d4abc98d471cb0a81a9b9a39eec390b7219a72d4d1ad3a9",
+     "bytes": 823
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_nacl_simulation-nacl",
+   "kind": "structure",
+   "name": "NaCl [Fm-3m]",
+   "description": "Rock salt · Simulated Cu Kα₁ pattern without measured data · Monochromator polarization",
+   "elements": [
+    "Cl",
+    "Na"
+   ],
+   "space_group": "F m -3 m",
+   "cell": [
+    5.62,
+    5.62,
+    5.62,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-xray-cwl_nacl_simulation-nacl.edi",
+     "format": "edi",
+     "sha256": "b83321f0b2a722cd6f359baeb5b816bf7c6c42272f91352b0a8910baa13107ef",
+     "bytes": 466
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_pbso4-lab-pbso4",
+   "kind": "structure",
+   "name": "PbSO₄ [Pnma]",
+   "description": "Rietveld round-robin data · Cu Kα doublet · Bérar-Baldinozzi asymmetry",
+   "elements": [
+    "O",
+    "Pb",
+    "S"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    8.47,
+    5.39,
+    6.95,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-xray-cwl_pbso4-lab-pbso4.edi",
+     "format": "edi",
+     "sha256": "24770242effa8a4d410836f2cef855fc6454d84e5f3cd2d2bd7ab760f21b3ba5",
+     "bytes": 614
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_pr2nio4-5c2-pr2nio4",
+   "kind": "structure",
+   "name": "Pr₂NiO₄ [Fmmm]",
+   "description": "Single crystal · Anisotropic displacements and coordinates from a rough start",
+   "elements": [
+    "Ni",
+    "O",
+    "Pr"
+   ],
+   "space_group": "F m m m",
+   "cell": [
+    5.417799,
+    5.4146,
+    12.483399,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/sc-neut-cwl_pr2nio4-5c2-pr2nio4.edi",
+     "format": "edi",
+     "sha256": "a37a18c113ba4738af270329671dfbed3992098d997d59deff3cd92f6bc016d6",
+     "bytes": 875
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_tb2ti2o7-heidi-tb2ti2o7",
+   "kind": "structure",
+   "name": "Tb₂Ti₂O₇ [Fd-3m]",
+   "description": "Single crystal · Anisotropic displacements and extinction from a rough start",
+   "elements": [
+    "O",
+    "Tb",
+    "Ti"
+   ],
+   "space_group": "F d -3 m",
+   "cell": [
+    10.13,
+    10.13,
+    10.13,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/sc-neut-cwl_tb2ti2o7-heidi-tb2ti2o7.edi",
+     "format": "edi",
+     "sha256": "b08d754705c5a5ad4f5ed79567fb90152f5be830af86fdd39f2614fc88bb3206",
+     "bytes": 867
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-taurine",
+   "kind": "structure",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "elements": [
+    "C",
+    "H",
+    "N",
+    "O",
+    "S"
+   ],
+   "space_group": "P 21/c",
+   "cell": [
+    5.272901,
+    11.656495,
+    7.838298,
+    90.0,
+    94.010994,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/sc-neut-tof_taurine-senju-taurine.edi",
+     "format": "edi",
+     "sha256": "6c8f4067c2be3cecc08a60d72f7bbac4f0fa8c899112e82ec49eeb1e3ed7e372",
+     "bytes": 1634
+    }
+   ]
+  },
+  {
+   "id": "tutorial-lbco",
+   "kind": "structure",
+   "name": "La0.5Ba0.5CoO3",
+   "description": "The onboarding tutorials' input",
+   "elements": [
+    "Ba",
+    "Co",
+    "La",
+    "O"
+   ],
+   "space_group": "P m -3 m",
+   "cell": [
+    3.88,
+    3.88,
+    3.88,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/tutorial-lbco.cif",
+     "format": "cif",
+     "sha256": "00d1adc78bc31fff2e5bb124127aab91eefc889e2065c51b378a51cad02778c6",
+     "bytes": 517
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20-d20",
+   "kind": "experiment",
+   "name": "Co₂SiO₄ [Pnma]",
+   "description": "Olivine · Coordinates, displacements and oxygen occupancies",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_cosio-d20-d20.edi",
+     "format": "edi",
+     "sha256": "8378801265ba8a0613ca8bec8ad2e70dc897320f2918c8ca8e1e799d270bb31e",
+     "bytes": 32643
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20_scan-d20",
+   "kind": "experiment",
+   "name": "Co₂SiO₄ [Pnma]",
+   "description": "Cooling scan · 155 patterns from 497.4 to 52.3 K · Magnetic frames left out",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_cosio-d20_scan-d20.edi",
+     "format": "edi",
+     "sha256": "5a6677ccebd2aa192905c93f58abd18e7fb6006a278aa764bdad4cb7b663ca6f",
+     "bytes": 35900
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_hs-hrpt-hrpt",
+   "kind": "experiment",
+   "name": "ZnCu₃(OD)₆Cl₂ [R-3m]",
+   "description": "Herbertsmithite · Deuterated kagome antiferromagnet · Bérar-Baldinozzi asymmetry",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "HRPT",
+   "facility": "PSI",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_hs-hrpt-hrpt.edi",
+     "format": "edi",
+     "sha256": "4f23d90585bdcd91c8f8fd31fd0ec90a7a96ffee63d24730dc09136c466ffcaa",
+     "bytes": 60717
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lbco-hrpt-hrpt",
+   "kind": "experiment",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m]",
+   "description": "Cubic perovskite · La and Ba sharing one site · Profile, background, displacements",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "HRPT",
+   "facility": "PSI",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_lbco-hrpt-hrpt.edi",
+     "format": "edi",
+     "sha256": "f0c0e3839ffa3b6043992fb768eef3794ced6c869ceb7da52a57b8a387cac3f2",
+     "bytes": 46359
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lbco_simulation-hrpt",
+   "kind": "experiment",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m]",
+   "description": "Cubic perovskite · Simulated pattern without measured data",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "HRPT",
+   "facility": "PSI",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_lbco_simulation-hrpt.edi",
+     "format": "edi",
+     "sha256": "3491e99022654c2952382e3b61193674ee9c76a6f92750454dc8444016023dda",
+     "bytes": 849
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lmo-echidna-echidna",
+   "kind": "experiment",
+   "name": "LiNiO₂ [R-3m]",
+   "description": "Layered oxide · Li/Ni site mixing · Occupancy constraints · TCH × FCJ asymmetry",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "ECHIDNA",
+   "facility": "ANSTO",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_lmo-echidna-echidna.edi",
+     "format": "edi",
+     "sha256": "d56417f998d7593acb3c9e5141c62ca8dc03d0d13fbe1748f19994e5e6c48cac",
+     "bytes": 83055
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_y2o3-spodi-spodi",
+   "kind": "experiment",
+   "name": "Y₂O₃ [Ia-3]",
+   "description": "Anisotropic β tensors tied by site symmetry · Coordinates, profile and background",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "SPODI",
+   "facility": "FRM II",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_y2o3-spodi-spodi.edi",
+     "format": "edi",
+     "sha256": "c6ff7236515100d6a5559271a52772142d435583d2b477f87b82411848a45eb3",
+     "bytes": 44708
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_yalo3-al2o3-spodi-spodi",
+   "kind": "experiment",
+   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
+   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "SPODI",
+   "facility": "FRM II",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_yalo3-al2o3-spodi-spodi.edi",
+     "format": "edi",
+     "sha256": "a6f88e8187d2cc3774f1d1400f161b3081d6d8eb288effa18b4a95fb560daad0",
+     "bytes": 43105
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_cecoal-polaris-polaris",
+   "kind": "experiment",
+   "name": "CeCoAl₃ [Pmma]",
+   "description": "Structure and time-of-flight profile fit · 24-term Chebyshev background",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "POLARIS",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_cecoal-polaris-polaris.edi",
+     "format": "edi",
+     "sha256": "fed88393498ca5c5bbb0310e90a03553d497717adb8f093f2a9b39262f1423d0",
+     "bytes": 88612
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ceo2-pearl-pearl",
+   "kind": "experiment",
+   "name": "CeO₂ [Fm-3m]",
+   "description": "NBS SRM 674a standard · Calibration and profile fit · 6-term polynomial background",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "PEARL",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_ceo2-pearl-pearl.edi",
+     "format": "edi",
+     "sha256": "288bcad556515cdf5b06687ee559bdd8a58f59fc7ca156a002fb855dd8570621",
+     "bytes": 72553
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ferrite-austenite-beer-expt_n2",
+   "kind": "experiment",
+   "name": "Ferrite [Im-3m] / Austenite [Fm-3m]",
+   "description": "Instrument calibration · 2 McStas-simulated banks fitted jointly · Per-bank zero and resolution",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "BEER",
+   "facility": "ESS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_ferrite-austenite-beer-expt_n2.edi",
+     "format": "edi",
+     "sha256": "c58fe0e38e1b7e747eba9b6daad4e9711e1d278a6cc0e7e470a1b8b3529e7562",
+     "bytes": 180047
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ferrite-austenite-beer-expt_s2",
+   "kind": "experiment",
+   "name": "Ferrite [Im-3m] / Austenite [Fm-3m]",
+   "description": "Instrument calibration · 2 McStas-simulated banks fitted jointly · Per-bank zero and resolution",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "BEER",
+   "facility": "ESS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_ferrite-austenite-beer-expt_s2.edi",
+     "format": "edi",
+     "sha256": "d2ec37dd7d1769a7fe2a33909f9345a7265cef6d927a700e90f6459090f2a582",
+     "bytes": 180167
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_lbco-si-mcstas-mcstas",
+   "kind": "experiment",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m] / Silicon [Fd-3m]",
+   "description": "2 phases · Simulated TOF pattern · Jorgensen profile",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "McStas",
+   "facility": "?",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_lbco-si-mcstas-mcstas.edi",
+     "format": "edi",
+     "sha256": "38c082a578e07f028fbd6a987629063c19a9dcfd0824d759c06c00037f41b57a",
+     "bytes": 76591
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ncaf-wish-wish_1_10",
+   "kind": "experiment",
+   "name": "Na₂Ca₃Al₂F₁₄ [I2₁3]",
+   "description": "All five detector bank pairs fitted jointly · Jorgensen–Von Dreele profile · Per-bank calibration",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "WISH",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_ncaf-wish-wish_1_10.edi",
+     "format": "edi",
+     "sha256": "2b9be49af490454d817f78e200852c640a025a14607efe41ff0b18683c9e918b",
+     "bytes": 119622
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ncaf-wish-wish_2_9",
+   "kind": "experiment",
+   "name": "Na₂Ca₃Al₂F₁₄ [I2₁3]",
+   "description": "All five detector bank pairs fitted jointly · Jorgensen–Von Dreele profile · Per-bank calibration",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "WISH",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_ncaf-wish-wish_2_9.edi",
+     "format": "edi",
+     "sha256": "2e921f4c31ed9dd39f7a26475cf0798db7fcfe34fcfca2e34479de26d5644012",
+     "bytes": 118094
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ncaf-wish-wish_3_8",
+   "kind": "experiment",
+   "name": "Na₂Ca₃Al₂F₁₄ [I2₁3]",
+   "description": "All five detector bank pairs fitted jointly · Jorgensen–Von Dreele profile · Per-bank calibration",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "WISH",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_ncaf-wish-wish_3_8.edi",
+     "format": "edi",
+     "sha256": "f42e3b7a75128300f69a93d4e1c0628f160ef1c42f998f8b86c2f3227d5ce3c0",
+     "bytes": 112493
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ncaf-wish-wish_4_7",
+   "kind": "experiment",
+   "name": "Na₂Ca₃Al₂F₁₄ [I2₁3]",
+   "description": "All five detector bank pairs fitted jointly · Jorgensen–Von Dreele profile · Per-bank calibration",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "WISH",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_ncaf-wish-wish_4_7.edi",
+     "format": "edi",
+     "sha256": "21dbc4f9632d817bdba4bb0cc27529535a964ad1805d358454d05ccedebc861c",
+     "bytes": 114669
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ncaf-wish-wish_5_6",
+   "kind": "experiment",
+   "name": "Na₂Ca₃Al₂F₁₄ [I2₁3]",
+   "description": "All five detector bank pairs fitted jointly · Jorgensen–Von Dreele profile · Per-bank calibration",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "WISH",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_ncaf-wish-wish_5_6.edi",
+     "format": "edi",
+     "sha256": "710d2a36a973081d25cec22d09c159684ed0df8b38a08951fd948f3d8c888556",
+     "bytes": 116757
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_si-sepd-sepd",
+   "kind": "experiment",
+   "name": "Silicon [Fd-3m]",
+   "description": "Silicon standard · Jorgensen–Von Dreele profile · Time-of-flight neutron powder data",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "SEPD",
+   "facility": "Argonne",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_si-sepd-sepd.edi",
+     "format": "edi",
+     "sha256": "0b4d62e18dc5313073dc3cca68c2812c29ff09b4c3b04b39bdba42995adc4ea9",
+     "bytes": 97333
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_si_simulation-sepd",
+   "kind": "experiment",
+   "name": "Silicon [Fd-3m]",
+   "description": "Silicon standard · Simulated time-of-flight pattern without measured data",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "SEPD",
+   "facility": "Argonne",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-tof_si_simulation-sepd.edi",
+     "format": "edi",
+     "sha256": "41d35ad77731d1a7c6bb51eaf835a652ff7e05d74fd0091657932b36da87aba1",
+     "bytes": 1067
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-xray-cwl_pbso4-d1a-lab-d1a",
+   "kind": "experiment",
+   "name": "PbSO₄ [Pnma]",
+   "description": "Rietveld round-robin data · Neutron and X-ray patterns fitted jointly",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D1A",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-xray-cwl_pbso4-d1a-lab-d1a.edi",
+     "format": "edi",
+     "sha256": "c406a2d1db09164700276a9d4f788ae4f313e0b3c8b49a2efdd5b9d99070a87e",
+     "bytes": 72774
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-xray-cwl_pbso4-d1a-lab-lab",
+   "kind": "experiment",
+   "name": "PbSO₄ [Pnma]",
+   "description": "Rietveld round-robin data · Neutron and X-ray patterns fitted jointly",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "?",
+   "facility": "?",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-neut-xray-cwl_pbso4-d1a-lab-lab.edi",
+     "format": "edi",
+     "sha256": "03612d4eb40d09e8e223e85f2f1f139aa558bca595a93efac4daf6bf08b8525e",
+     "bytes": 153661
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_lam7o3-p021-p021",
+   "kind": "experiment",
+   "name": "La(Ti,Cr,Mn,Fe,Co,Ni,Cu)O₃ [Pnma]",
+   "description": "High-entropy perovskite · Seven cations on one site · Synchrotron X-ray",
+   "radiation": "xray",
+   "technique": "powder constant wavelength",
+   "instrument": "P02.1",
+   "facility": "PETRA III",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-xray-cwl_lam7o3-p021-p021.edi",
+     "format": "edi",
+     "sha256": "dfcd48810e7d43aea27835c0a31cc0d1efd18124d192552b1bd4606a43d493a9",
+     "bytes": 53377
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_latp-bm01_scan-bm01",
+   "kind": "experiment",
+   "name": "LATP [R-3c] / AlPO₄ [C222₁] / AlPO₄ [P6₃mc]",
+   "description": "3 phases · 73 synchrotron patterns · Linked displacement parameters",
+   "radiation": "xray",
+   "technique": "powder constant wavelength",
+   "instrument": "BM01",
+   "facility": "ESRF",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-xray-cwl_latp-bm01_scan-bm01.edi",
+     "format": "edi",
+     "sha256": "af58e09874522d486a4aab817a6e65e285674fd84b45164110e19d5213709af6",
+     "bytes": 101819
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_nacl_simulation-lab",
+   "kind": "experiment",
+   "name": "NaCl [Fm-3m]",
+   "description": "Rock salt · Simulated Cu Kα₁ pattern without measured data · Monochromator polarization",
+   "radiation": "xray",
+   "technique": "powder constant wavelength",
+   "instrument": "?",
+   "facility": "?",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-xray-cwl_nacl_simulation-lab.edi",
+     "format": "edi",
+     "sha256": "cf6c43c953f7f816d5048cc07b0ade17b2908bfcb922e56afc1710e66289f94c",
+     "bytes": 907
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_pbso4-lab-lab",
+   "kind": "experiment",
+   "name": "PbSO₄ [Pnma]",
+   "description": "Rietveld round-robin data · Cu Kα doublet · Bérar-Baldinozzi asymmetry",
+   "radiation": "xray",
+   "technique": "powder constant wavelength",
+   "instrument": "?",
+   "facility": "?",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/pd-xray-cwl_pbso4-lab-lab.edi",
+     "format": "edi",
+     "sha256": "47b9b557d67b3c452769275c66d2a6475cb5585bde3e6552773690b2572976e2",
+     "bytes": 173357
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_pr2nio4-5c2-llb_5c2",
+   "kind": "experiment",
+   "name": "Pr₂NiO₄ [Fmmm]",
+   "description": "Single crystal · Anisotropic displacements and coordinates from a rough start",
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "5C2",
+   "facility": "LLB",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/sc-neut-cwl_pr2nio4-5c2-llb_5c2.edi",
+     "format": "edi",
+     "sha256": "64054c5c3e0a9e6f39c2939f5a859de01bc7579b464a8ad5045171c79a53f6ad",
+     "bytes": 5557
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_tb2ti2o7-heidi-heidi",
+   "kind": "experiment",
+   "name": "Tb₂Ti₂O₇ [Fd-3m]",
+   "description": "Single crystal · Anisotropic displacements and extinction from a rough start",
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/sc-neut-cwl_tb2ti2o7-heidi-heidi.edi",
+     "format": "edi",
+     "sha256": "d62059565f31efd60e18618d7c3a018c4313f849866cfe59a4ce62df727ac660",
+     "bytes": 6587
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_1",
+   "kind": "experiment",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/sc-neut-tof_taurine-senju-senju_1.edi",
+     "format": "edi",
+     "sha256": "2a6e0901b6bf4cbd18970f3a6e9e83e3fd3e81b5d9b8552fdd504c3fe78f1392",
+     "bytes": 8939
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_2",
+   "kind": "experiment",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/sc-neut-tof_taurine-senju-senju_2.edi",
+     "format": "edi",
+     "sha256": "ca5096ede58af9d5bd78a15226e0d5c96f1fca9748b8776ef0dbc58b21562fae",
+     "bytes": 8379
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_3",
+   "kind": "experiment",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/sc-neut-tof_taurine-senju-senju_3.edi",
+     "format": "edi",
+     "sha256": "c3ef76e3488936060121a0f7a5e5bd6ec73aff874503a6d28e66f29f4e874a1b",
+     "bytes": 8825
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_4",
+   "kind": "experiment",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/sc-neut-tof_taurine-senju-senju_4.edi",
+     "format": "edi",
+     "sha256": "b2e318e885e2cd84edc47ebcabf32582fa28cb8603debcd613e04191721bd287",
+     "bytes": 7261
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_5",
+   "kind": "experiment",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/sc-neut-tof_taurine-senju-senju_5.edi",
+     "format": "edi",
+     "sha256": "5f665115817628ded3829783e17e0a6b543b829e466259f32f94d6c0c1322ba2",
+     "bytes": 7619
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_6",
+   "kind": "experiment",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "experiments/sc-neut-tof_taurine-senju-senju_6.edi",
+     "format": "edi",
+     "sha256": "a5b659d99e047542bd17755a6c38e33ade6df963227441b3243f691ab9496a3a",
+     "bytes": 8099
+    }
+   ]
+  },
+  {
+   "id": "tutorial-hrpt",
+   "kind": "data",
+   "name": "La0.5Ba0.5CoO3 pattern from HRPT",
+   "description": "The onboarding tutorials' input",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "HRPT",
+   "facility": "PSI",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/tutorial-hrpt.xye",
+     "format": "xye",
+     "sha256": "70dba3f642b394f0e7e7802a8637e0e287164562671993ee0701b813c902e360",
+     "bytes": 83671
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20",
+   "kind": "project",
+   "name": "Co₂SiO₄ [Pnma]",
+   "description": "Olivine · Coordinates, displacements and oxygen occupancies",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_cosio-d20.zip",
+     "format": "zip",
+     "sha256": "5b3280fb4fa62dd07b429cea03a739c07e0a4ba4258de3654375b39f27c89676",
+     "bytes": 14170
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_cosio-d20_scan",
+   "kind": "project",
+   "name": "Co₂SiO₄ [Pnma]",
+   "description": "Cooling scan · 155 patterns from 497.4 to 52.3 K · Magnetic frames left out",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_cosio-d20_scan.zip",
+     "format": "zip",
+     "sha256": "cfbd327f4774db437fc970dc2c87c809f176e04df0b3cc62163e6b536bc6259a",
+     "bytes": 2441376
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_hs-hrpt",
+   "kind": "project",
+   "name": "ZnCu₃(OD)₆Cl₂ [R-3m]",
+   "description": "Herbertsmithite · Deuterated kagome antiferromagnet · Bérar-Baldinozzi asymmetry",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "HRPT",
+   "facility": "PSI",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_hs-hrpt.zip",
+     "format": "zip",
+     "sha256": "b116b81fff93de691c2c3f2f887260ec6ecca6d28d291c80eec1c923b2739fe6",
+     "bytes": 19789
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lbco-hrpt",
+   "kind": "project",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m]",
+   "description": "Cubic perovskite · La and Ba sharing one site · Profile, background, displacements",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "HRPT",
+   "facility": "PSI",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_lbco-hrpt.zip",
+     "format": "zip",
+     "sha256": "9c59e42b0efd7f0f81345600519771fea4d659a0b305a51d5014976ef17323f9",
+     "bytes": 15873
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lbco_simulation",
+   "kind": "project",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m]",
+   "description": "Cubic perovskite · Simulated pattern without measured data",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "HRPT",
+   "facility": "PSI",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_lbco_simulation.zip",
+     "format": "zip",
+     "sha256": "94a8951bcfcaf3a1ad906fb743a68df521519d51f197730b4680025597aacc15",
+     "bytes": 1551
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lmo-echidna",
+   "kind": "project",
+   "name": "LiNiO₂ [R-3m]",
+   "description": "Layered oxide · Li/Ni site mixing · Occupancy constraints · TCH × FCJ asymmetry",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "ECHIDNA",
+   "facility": "ANSTO",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_lmo-echidna.zip",
+     "format": "zip",
+     "sha256": "46b9f07363c1e4c1591c0f05c13917b87a4745889b3e1a83aaff56dd350f17a9",
+     "bytes": 38811
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_y2o3-spodi",
+   "kind": "project",
+   "name": "Y₂O₃ [Ia-3]",
+   "description": "Anisotropic β tensors tied by site symmetry · Coordinates, profile and background",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "SPODI",
+   "facility": "FRM II",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_y2o3-spodi.zip",
+     "format": "zip",
+     "sha256": "ca9855324fff4d3719b65b9553cd1c8fae75947d62df9df76ab00a6076989c4e",
+     "bytes": 17688
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_yalo3-al2o3-spodi",
+   "kind": "project",
+   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
+   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "SPODI",
+   "facility": "FRM II",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_yalo3-al2o3-spodi.zip",
+     "format": "zip",
+     "sha256": "c2ebe2b0b6598cd1c46e576c28399515e105f7317ba3a71154a8e9d4c3a74866",
+     "bytes": 18940
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_cecoal-polaris",
+   "kind": "project",
+   "name": "CeCoAl₃ [Pmma]",
+   "description": "Structure and time-of-flight profile fit · 24-term Chebyshev background",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "POLARIS",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-tof_cecoal-polaris.zip",
+     "format": "zip",
+     "sha256": "2e4d2e90c91541f899f40afc11f86a1ed84b931ce41a62a9d8b62bb731f7a36c",
+     "bytes": 36687
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ceo2-pearl",
+   "kind": "project",
+   "name": "CeO₂ [Fm-3m]",
+   "description": "NBS SRM 674a standard · Calibration and profile fit · 6-term polynomial background",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "PEARL",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-tof_ceo2-pearl.zip",
+     "format": "zip",
+     "sha256": "789f0e961a3dfbee20e47c6bd7b5b6016fa80938da0bd248b6ebd93bfcdb741b",
+     "bytes": 32943
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ferrite-austenite-beer",
+   "kind": "project",
+   "name": "Ferrite [Im-3m] / Austenite [Fm-3m]",
+   "description": "Instrument calibration · 2 McStas-simulated banks fitted jointly · Per-bank zero and resolution",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "BEER",
+   "facility": "ESS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-tof_ferrite-austenite-beer.zip",
+     "format": "zip",
+     "sha256": "975c2a145911ed41dd98dc238bfb22aeea9b1cc8ba07e78f743ea4ba7186c136",
+     "bytes": 173814
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_lbco-si-mcstas",
+   "kind": "project",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m] / Silicon [Fd-3m]",
+   "description": "2 phases · Simulated TOF pattern · Jorgensen profile",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "McStas",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-tof_lbco-si-mcstas.zip",
+     "format": "zip",
+     "sha256": "ce246aceb88989ae314fcecaf2493fa131ae98d1176ead1aff97d5074487a751",
+     "bytes": 35199
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_ncaf-wish",
+   "kind": "project",
+   "name": "Na₂Ca₃Al₂F₁₄ [I2₁3]",
+   "description": "All five detector bank pairs fitted jointly · Jorgensen–Von Dreele profile · Per-bank calibration",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "WISH",
+   "facility": "ISIS",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-tof_ncaf-wish.zip",
+     "format": "zip",
+     "sha256": "fd64cba699ae1e10997cc34d854e06cf9d0e2ad6a016519074b6948f5f30cc9c",
+     "bytes": 273761
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_si-sepd",
+   "kind": "project",
+   "name": "Silicon [Fd-3m]",
+   "description": "Silicon standard · Jorgensen–Von Dreele profile · Time-of-flight neutron powder data",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "SEPD",
+   "facility": "Argonne",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-tof_si-sepd.zip",
+     "format": "zip",
+     "sha256": "18f1bb4c2393870c11f1cae7b91e6929c1b41fabac08fa11402625532e9e5d3b",
+     "bytes": 33233
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_si_simulation",
+   "kind": "project",
+   "name": "Silicon [Fd-3m]",
+   "description": "Silicon standard · Simulated time-of-flight pattern without measured data",
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "SEPD",
+   "facility": "Argonne",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-tof_si_simulation.zip",
+     "format": "zip",
+     "sha256": "94ab6eaaff721e4ae99d0e545f4ac5230cbe5cc71f10a53069b170be71e58d6e",
+     "bytes": 1567
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-xray-cwl_pbso4-d1a-lab",
+   "kind": "project",
+   "name": "PbSO₄ [Pnma]",
+   "description": "Rietveld round-robin data · Neutron and X-ray patterns fitted jointly",
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-xray-cwl_pbso4-d1a-lab.zip",
+     "format": "zip",
+     "sha256": "98913762c0651a45645f40ba56b2e07cf9c55a0bb434137922d2751bfacfda3c",
+     "bytes": 57306
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_lam7o3-p021",
+   "kind": "project",
+   "name": "La(Ti,Cr,Mn,Fe,Co,Ni,Cu)O₃ [Pnma]",
+   "description": "High-entropy perovskite · Seven cations on one site · Synchrotron X-ray",
+   "radiation": "xray",
+   "technique": "powder constant wavelength",
+   "instrument": "P02.1",
+   "facility": "PETRA III",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-xray-cwl_lam7o3-p021.zip",
+     "format": "zip",
+     "sha256": "1cdab9a39807752f6a50ddb0b1cdf468cce2a12889206273a6c82adcdac87ab5",
+     "bytes": 22244
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_latp-bm01_scan",
+   "kind": "project",
+   "name": "LATP [R-3c] / AlPO₄ [C222₁] / AlPO₄ [P6₃mc]",
+   "description": "3 phases · 73 synchrotron patterns · Linked displacement parameters",
+   "radiation": "xray",
+   "technique": "powder constant wavelength",
+   "instrument": "BM01",
+   "facility": "ESRF",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-xray-cwl_latp-bm01_scan.zip",
+     "format": "zip",
+     "sha256": "a0644c8ac0a927f8e85fddb49cefb81ec631f3b4f0585c54a40eab64f2df2300",
+     "bytes": 3293463
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_nacl_simulation",
+   "kind": "project",
+   "name": "NaCl [Fm-3m]",
+   "description": "Rock salt · Simulated Cu Kα₁ pattern without measured data · Monochromator polarization",
+   "radiation": "xray",
+   "technique": "powder constant wavelength",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-xray-cwl_nacl_simulation.zip",
+     "format": "zip",
+     "sha256": "768abc623339becc7b75d08e02968d68acdb1507d6f581e5ded54a08954d0b4c",
+     "bytes": 1564
+    }
+   ]
+  },
+  {
+   "id": "pd-xray-cwl_pbso4-lab",
+   "kind": "project",
+   "name": "PbSO₄ [Pnma]",
+   "description": "Rietveld round-robin data · Cu Kα doublet · Bérar-Baldinozzi asymmetry",
+   "radiation": "xray",
+   "technique": "powder constant wavelength",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-xray-cwl_pbso4-lab.zip",
+     "format": "zip",
+     "sha256": "c31f41ebb542f87073cb265556fe49501ac9480091c808e19e89d3e569b692c0",
+     "bytes": 42726
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_pr2nio4-5c2",
+   "kind": "project",
+   "name": "Pr₂NiO₄ [Fmmm]",
+   "description": "Single crystal · Anisotropic displacements and coordinates from a rough start",
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "5C2",
+   "facility": "LLB",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/sc-neut-cwl_pr2nio4-5c2.zip",
+     "format": "zip",
+     "sha256": "2149ccc1afc82db9379ae3b03f0a6bb1e7a6fb40fd6a93566621b1b535a442df",
+     "bytes": 4008
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_tb2ti2o7-heidi",
+   "kind": "project",
+   "name": "Tb₂Ti₂O₇ [Fd-3m]",
+   "description": "Single crystal · Anisotropic displacements and extinction from a rough start",
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/sc-neut-cwl_tb2ti2o7-heidi.zip",
+     "format": "zip",
+     "sha256": "367eb872556748ec5ead2fb2618c13f5a813437f3445232e533cb86a71a98d42",
+     "bytes": 4602
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju",
+   "kind": "project",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/sc-neut-tof_taurine-senju.zip",
+     "format": "zip",
+     "sha256": "c6ab72562ced91c562ce2e783c50db86d96224d362e28c64de82b93a2b0576ee",
+     "bytes": 23599
+    }
+   ]
+  }
+ ]
+}

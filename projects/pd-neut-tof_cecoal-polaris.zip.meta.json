@@ -1,0 +1,10 @@
+{
+ "id": "pd-neut-tof_cecoal-polaris",
+ "name": "CeCoAl₃ [Pmma]",
+ "description": "Structure and time-of-flight profile fit · 24-term Chebyshev background",
+ "radiation": "neutron",
+ "technique": "powder time-of-flight",
+ "instrument": "POLARIS",
+ "facility": "ISIS",
+ "source": "EasyDiffraction"
+}

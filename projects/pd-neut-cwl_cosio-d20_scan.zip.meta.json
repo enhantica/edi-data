@@ -1,0 +1,10 @@
+{
+ "id": "pd-neut-cwl_cosio-d20_scan",
+ "name": "Co₂SiO₄ [Pnma]",
+ "description": "Cooling scan · 155 patterns from 497.4 to 52.3 K · Magnetic frames left out",
+ "radiation": "neutron",
+ "technique": "powder constant wavelength",
+ "instrument": "D20",
+ "facility": "ILL",
+ "source": "EasyDiffraction"
+}

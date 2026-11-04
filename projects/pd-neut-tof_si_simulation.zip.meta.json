@@ -1,0 +1,10 @@
+{
+ "id": "pd-neut-tof_si_simulation",
+ "name": "Silicon [Fd-3m]",
+ "description": "Silicon standard · Simulated time-of-flight pattern without measured data",
+ "radiation": "neutron",
+ "technique": "powder time-of-flight",
+ "instrument": "SEPD",
+ "facility": "Argonne",
+ "source": "EasyDiffraction"
+}

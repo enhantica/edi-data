@@ -1,0 +1,10 @@
+{
+ "id": "pd-xray-cwl_lam7o3-p021-p021",
+ "name": "La(Ti,Cr,Mn,Fe,Co,Ni,Cu)O₃ [Pnma]",
+ "description": "High-entropy perovskite · Seven cations on one site · Synchrotron X-ray",
+ "radiation": "xray",
+ "technique": "powder constant wavelength",
+ "instrument": "P02.1",
+ "facility": "PETRA III",
+ "source": "EasyDiffraction"
+}
