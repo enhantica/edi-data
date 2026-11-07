@@ -438,6 +438,65 @@
    ]
   },
   {
+   "id": "pd-neut-cwl_yap-spodi_3k-Al2O3",
+   "kind": "structure",
+   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
+   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
+   "formula": "Al O",
+   "elements": [
+    "Al",
+    "O"
+   ],
+   "space_group": "R -3 c",
+   "cell": [
+    4.756614,
+    4.756614,
+    12.973036,
+    90.0,
+    90.0,
+    120.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_yap-spodi_3k-Al2O3.edi",
+     "format": "edi",
+     "sha256": "f5d727bf0362dae6abfb4c2503669e83085bc897cbb09db913b359eb37999472",
+     "bytes": 511
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_yap-spodi_3k-YAlO3",
+   "kind": "structure",
+   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
+   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
+   "formula": "Al O Y",
+   "elements": [
+    "Al",
+    "O",
+    "Y"
+   ],
+   "space_group": "P b n m",
+   "cell": [
+    5.172418,
+    5.32659,
+    7.360847,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/pd-neut-cwl_yap-spodi_3k-YAlO3.edi",
+     "format": "edi",
+     "sha256": "7a4c6c27b6314bca5d179350c2ee75e1e27565a6c59629c17ed11662e29a2ccb",
+     "bytes": 578
+    }
+   ]
+  },
+  {
    "id": "pd-neut-tof_cecoal-polaris-cecoal",
    "kind": "structure",
    "name": "CeCoAl₃ [Pmma]",
@@ -1318,6 +1377,35 @@
      "format": "edi",
      "sha256": "a6f88e8187d2cc3774f1d1400f161b3081d6d8eb288effa18b4a95fb560daad0",
      "bytes": 43105
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_yap-spodi_3k-spodi",
+   "kind": "experiment",
+   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
+   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
+   "formula": "Al O Y",
+   "elements": [
+    "Al",
+    "O",
+    "Y"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "SPODI",
+   "facility": "FRM II",
+   "source": "EasyDiffraction",
+   "structures": [
+    "pd-neut-cwl_yap-spodi_3k-YAlO3",
+    "pd-neut-cwl_yap-spodi_3k-Al2O3"
+   ],
+   "files": [
+    {
+     "path": "experiments/pd-neut-cwl_yap-spodi_3k-spodi.edi",
+     "format": "edi",
+     "sha256": "5518f0b0d72851e34098d03208755eeb2c1a86894fc6f49c27e196fdb932ae6b",
+     "bytes": 43234
     }
    ]
   },
@@ -2346,6 +2434,31 @@
      "format": "zip",
      "sha256": "c2ebe2b0b6598cd1c46e576c28399515e105f7317ba3a71154a8e9d4c3a74866",
      "bytes": 18940
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_yap-spodi_3k",
+   "kind": "project",
+   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
+   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
+   "formula": "Al O Y",
+   "elements": [
+    "Al",
+    "O",
+    "Y"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "SPODI",
+   "facility": "FRM II",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/pd-neut-cwl_yap-spodi_3k.zip",
+     "format": "zip",
+     "sha256": "bf6b5e8a5a4bb399798e27e2d43f074a49b32858c4ff856a10d2b37d2d5a02fd",
+     "bytes": 19189
     }
    ]
   },
