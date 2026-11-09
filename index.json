@@ -197,36 +197,6 @@
    ]
   },
   {
-   "id": "pd-neut-cwl_cosio-d20_scan-cosio",
-   "kind": "structure",
-   "name": "Co₂SiO₄ [Pnma]",
-   "description": "Cooling scan · 155 patterns from 497.4 to 52.3 K · Magnetic frames left out",
-   "formula": "Co O Si",
-   "elements": [
-    "Co",
-    "O",
-    "Si"
-   ],
-   "space_group": "P n m a",
-   "cell": [
-    10.31,
-    6.0,
-    4.79,
-    90.0,
-    90.0,
-    90.0
-   ],
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "structures/pd-neut-cwl_cosio-d20_scan-cosio.edi",
-     "format": "edi",
-     "sha256": "db297a9cb8148c8be36f3d5d52d5151e9b0f67e31ffcf92e52854a678c4f24d6",
-     "bytes": 644
-    }
-   ]
-  },
-  {
    "id": "pd-neut-cwl_hs-hrpt-hs",
    "kind": "structure",
    "name": "ZnCu₃(OD)₆Cl₂ [R-3m]",
@@ -434,65 +404,6 @@
      "format": "edi",
      "sha256": "582a5e23201b519fced17407e697e46d11718a9b4d6b260c12df2ccaab5b1580",
      "bytes": 529
-    }
-   ]
-  },
-  {
-   "id": "pd-neut-cwl_yap-spodi_3k-Al2O3",
-   "kind": "structure",
-   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
-   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
-   "formula": "Al O",
-   "elements": [
-    "Al",
-    "O"
-   ],
-   "space_group": "R -3 c",
-   "cell": [
-    4.756614,
-    4.756614,
-    12.973036,
-    90.0,
-    90.0,
-    120.0
-   ],
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "structures/pd-neut-cwl_yap-spodi_3k-Al2O3.edi",
-     "format": "edi",
-     "sha256": "f5d727bf0362dae6abfb4c2503669e83085bc897cbb09db913b359eb37999472",
-     "bytes": 511
-    }
-   ]
-  },
-  {
-   "id": "pd-neut-cwl_yap-spodi_3k-YAlO3",
-   "kind": "structure",
-   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
-   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
-   "formula": "Al O Y",
-   "elements": [
-    "Al",
-    "O",
-    "Y"
-   ],
-   "space_group": "P b n m",
-   "cell": [
-    5.172418,
-    5.32659,
-    7.360847,
-    90.0,
-    90.0,
-    90.0
-   ],
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "structures/pd-neut-cwl_yap-spodi_3k-YAlO3.edi",
-     "format": "edi",
-     "sha256": "7a4c6c27b6314bca5d179350c2ee75e1e27565a6c59629c17ed11662e29a2ccb",
-     "bytes": 578
     }
    ]
   },
@@ -730,34 +641,6 @@
    ]
   },
   {
-   "id": "pd-neut-tof_si_simulation-si",
-   "kind": "structure",
-   "name": "Silicon [Fd-3m]",
-   "description": "Silicon standard · Simulated time-of-flight pattern without measured data",
-   "formula": "Si",
-   "elements": [
-    "Si"
-   ],
-   "space_group": "F d -3 m",
-   "cell": [
-    5.431,
-    5.431,
-    5.431,
-    90.0,
-    90.0,
-    90.0
-   ],
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "structures/pd-neut-tof_si_simulation-si.edi",
-     "format": "edi",
-     "sha256": "1923e98e340ce5c3a6eb8f1febb921014d10df79310fab98574e8c0b6bd68bbd",
-     "bytes": 448
-    }
-   ]
-  },
-  {
    "id": "pd-neut-xray-cwl_pbso4-d1a-lab-pbso4",
    "kind": "structure",
    "name": "PbSO₄ [Pnma]",
@@ -912,35 +795,6 @@
      "format": "edi",
      "sha256": "2fa22f4a9a8554731d4abc98d471cb0a81a9b9a39eec390b7219a72d4d1ad3a9",
      "bytes": 823
-    }
-   ]
-  },
-  {
-   "id": "pd-xray-cwl_nacl_simulation-nacl",
-   "kind": "structure",
-   "name": "NaCl [Fm-3m]",
-   "description": "Rock salt · Simulated Cu Kα₁ pattern without measured data · Monochromator polarization",
-   "formula": "Cl Na",
-   "elements": [
-    "Cl",
-    "Na"
-   ],
-   "space_group": "F m -3 m",
-   "cell": [
-    5.62,
-    5.62,
-    5.62,
-    90.0,
-    90.0,
-    90.0
-   ],
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "structures/pd-xray-cwl_nacl_simulation-nacl.edi",
-     "format": "edi",
-     "sha256": "b83321f0b2a722cd6f359baeb5b816bf7c6c42272f91352b0a8910baa13107ef",
-     "bytes": 466
     }
    ]
   },
@@ -1272,34 +1126,6 @@
    ]
   },
   {
-   "id": "pd-neut-cwl_cosio-d20_scan-d20",
-   "kind": "experiment",
-   "name": "Co₂SiO₄ [Pnma]",
-   "description": "Cooling scan · 155 patterns from 497.4 to 52.3 K · Magnetic frames left out",
-   "formula": "Co O Si",
-   "elements": [
-    "Co",
-    "O",
-    "Si"
-   ],
-   "radiation": "neutron",
-   "technique": "powder constant wavelength",
-   "instrument": "D20",
-   "facility": "ILL",
-   "source": "EasyDiffraction",
-   "structures": [
-    "pd-neut-cwl_cosio-d20_scan-cosio"
-   ],
-   "files": [
-    {
-     "path": "experiments/pd-neut-cwl_cosio-d20_scan-d20.edi",
-     "format": "edi",
-     "sha256": "5a6677ccebd2aa192905c93f58abd18e7fb6006a278aa764bdad4cb7b663ca6f",
-     "bytes": 35900
-    }
-   ]
-  },
-  {
    "id": "pd-neut-cwl_hs-hrpt-hrpt",
    "kind": "experiment",
    "name": "ZnCu₃(OD)₆Cl₂ [R-3m]",
@@ -1467,35 +1293,6 @@
      "format": "edi",
      "sha256": "a6f88e8187d2cc3774f1d1400f161b3081d6d8eb288effa18b4a95fb560daad0",
      "bytes": 43105
-    }
-   ]
-  },
-  {
-   "id": "pd-neut-cwl_yap-spodi_3k-spodi",
-   "kind": "experiment",
-   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
-   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
-   "formula": "Al O Y",
-   "elements": [
-    "Al",
-    "O",
-    "Y"
-   ],
-   "radiation": "neutron",
-   "technique": "powder constant wavelength",
-   "instrument": "SPODI",
-   "facility": "FRM II",
-   "source": "EasyDiffraction",
-   "structures": [
-    "pd-neut-cwl_yap-spodi_3k-YAlO3",
-    "pd-neut-cwl_yap-spodi_3k-Al2O3"
-   ],
-   "files": [
-    {
-     "path": "experiments/pd-neut-cwl_yap-spodi_3k-spodi.edi",
-     "format": "edi",
-     "sha256": "5518f0b0d72851e34098d03208755eeb2c1a86894fc6f49c27e196fdb932ae6b",
-     "bytes": 43234
     }
    ]
   },
@@ -1811,32 +1608,6 @@
    ]
   },
   {
-   "id": "pd-neut-tof_si_simulation-sepd",
-   "kind": "experiment",
-   "name": "Silicon [Fd-3m]",
-   "description": "Silicon standard · Simulated time-of-flight pattern without measured data",
-   "formula": "Si",
-   "elements": [
-    "Si"
-   ],
-   "radiation": "neutron",
-   "technique": "powder time-of-flight",
-   "instrument": "SEPD",
-   "facility": "Argonne",
-   "source": "EasyDiffraction",
-   "structures": [
-    "pd-neut-tof_si_simulation-si"
-   ],
-   "files": [
-    {
-     "path": "experiments/pd-neut-tof_si_simulation-sepd.edi",
-     "format": "edi",
-     "sha256": "41d35ad77731d1a7c6bb51eaf835a652ff7e05d74fd0091657932b36da87aba1",
-     "bytes": 1067
-    }
-   ]
-  },
-  {
    "id": "pd-neut-xray-cwl_pbso4-d1a-lab-d1a",
    "kind": "experiment",
    "name": "PbSO₄ [Pnma]",
@@ -1955,33 +1726,6 @@
      "format": "edi",
      "sha256": "af58e09874522d486a4aab817a6e65e285674fd84b45164110e19d5213709af6",
      "bytes": 101819
-    }
-   ]
-  },
-  {
-   "id": "pd-xray-cwl_nacl_simulation-lab",
-   "kind": "experiment",
-   "name": "NaCl [Fm-3m]",
-   "description": "Rock salt · Simulated Cu Kα₁ pattern without measured data · Monochromator polarization",
-   "formula": "Cl Na",
-   "elements": [
-    "Cl",
-    "Na"
-   ],
-   "radiation": "xray",
-   "technique": "powder constant wavelength",
-   "instrument": "?",
-   "facility": "?",
-   "source": "EasyDiffraction",
-   "structures": [
-    "pd-xray-cwl_nacl_simulation-nacl"
-   ],
-   "files": [
-    {
-     "path": "experiments/pd-xray-cwl_nacl_simulation-lab.edi",
-     "format": "edi",
-     "sha256": "cf6c43c953f7f816d5048cc07b0ade17b2908bfcb922e56afc1710e66289f94c",
-     "bytes": 907
     }
    ]
   },
@@ -2819,31 +2563,6 @@
    }
   },
   {
-   "id": "pd-neut-cwl_cosio-d20_scan",
-   "kind": "project",
-   "name": "Co₂SiO₄ [Pnma]",
-   "description": "Cooling scan · 155 patterns from 497.4 to 52.3 K · Magnetic frames left out",
-   "formula": "Co O Si",
-   "elements": [
-    "Co",
-    "O",
-    "Si"
-   ],
-   "radiation": "neutron",
-   "technique": "powder constant wavelength",
-   "instrument": "D20",
-   "facility": "ILL",
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "projects/pd-neut-cwl_cosio-d20_scan.zip",
-     "format": "zip",
-     "sha256": "cfbd327f4774db437fc970dc2c87c809f176e04df0b3cc62163e6b536bc6259a",
-     "bytes": 2441376
-    }
-   ]
-  },
-  {
    "id": "pd-neut-cwl_hs-hrpt",
    "kind": "project",
    "name": "ZnCu₃(OD)₆Cl₂ [R-3m]",
@@ -3443,31 +3162,6 @@
      "cli_docs": "docs/user/cli/pd-neut-cwl_yalo3-al2o3-spodi/index.md"
     }
    }
-  },
-  {
-   "id": "pd-neut-cwl_yap-spodi_3k",
-   "kind": "project",
-   "name": "YAlO₃ [Pbnm] / Al₂O₃ [R-3c]",
-   "description": "2 phases at 3 K · Shared Bérar-Baldinozzi profile · Cylinder absorption",
-   "formula": "Al O Y",
-   "elements": [
-    "Al",
-    "O",
-    "Y"
-   ],
-   "radiation": "neutron",
-   "technique": "powder constant wavelength",
-   "instrument": "SPODI",
-   "facility": "FRM II",
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "projects/pd-neut-cwl_yap-spodi_3k.zip",
-     "format": "zip",
-     "sha256": "bf6b5e8a5a4bb399798e27e2d43f074a49b32858c4ff856a10d2b37d2d5a02fd",
-     "bytes": 19189
-    }
-   ]
   },
   {
    "id": "pd-neut-tof_cecoal-polaris",
@@ -4080,29 +3774,6 @@
    }
   },
   {
-   "id": "pd-neut-tof_si_simulation",
-   "kind": "project",
-   "name": "Silicon [Fd-3m]",
-   "description": "Silicon standard · Simulated time-of-flight pattern without measured data",
-   "formula": "Si",
-   "elements": [
-    "Si"
-   ],
-   "radiation": "neutron",
-   "technique": "powder time-of-flight",
-   "instrument": "SEPD",
-   "facility": "Argonne",
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "projects/pd-neut-tof_si_simulation.zip",
-     "format": "zip",
-     "sha256": "94ab6eaaff721e4ae99d0e545f4ac5230cbe5cc71f10a53069b170be71e58d6e",
-     "bytes": 1567
-    }
-   ]
-  },
-  {
    "id": "pd-neut-xray-cwl_pbso4-d1a-lab",
    "kind": "project",
    "name": "PbSO₄ [Pnma]",
@@ -4416,28 +4087,6 @@
      "cli_docs": "docs/user/cli/pd-xray-cwl_latp-bm01_scan/index.md"
     }
    }
-  },
-  {
-   "id": "pd-xray-cwl_nacl_simulation",
-   "kind": "project",
-   "name": "NaCl [Fm-3m]",
-   "description": "Rock salt · Simulated Cu Kα₁ pattern without measured data · Monochromator polarization",
-   "formula": "Cl Na",
-   "elements": [
-    "Cl",
-    "Na"
-   ],
-   "radiation": "xray",
-   "technique": "powder constant wavelength",
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "projects/pd-xray-cwl_nacl_simulation.zip",
-     "format": "zip",
-     "sha256": "768abc623339becc7b75d08e02968d68acdb1507d6f581e5ded54a08954d0b4c",
-     "bytes": 1564
-    }
-   ]
   },
   {
    "id": "pd-xray-cwl_pbso4-lab",
