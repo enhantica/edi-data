@@ -2036,8 +2036,8 @@
     {
      "path": "experiments/sc-neut-cwl_cosio-heidi-heidi_2k5.edi",
      "format": "edi",
-     "sha256": "398b01a6e461ce2dc8e622bf836a9d84eb13a4c4e67099e8c79c7f953f666d08",
-     "bytes": 33380
+     "sha256": "942c52ea8de5e11cc9cf892de335b19c0a7da4297ba4eb2250255c3ae3d5dfff",
+     "bytes": 33366
     }
    ]
   },
@@ -2427,7 +2427,7 @@
     {
      "path": "data/sc-neut-cwl_cosio-heidi-heidi_2k5.hkl",
      "format": "hkl",
-     "sha256": "803fd29e09e0054625e28da8a7b1c2ab6777e1043ae856f55632383ff90c0299",
+     "sha256": "101fbbcb32645511ea3e095ba71ed7efa1841aaeb94247923b11a7f3f787cea9",
      "bytes": 70356
     }
    ]
@@ -4557,8 +4557,8 @@
     {
      "path": "projects/sc-neut-cwl_cosio-heidi.zip",
      "format": "zip",
-     "sha256": "97bb2fe76dfe903cd6845c62a49d29e5d11f30cf12d545481214ce9faef2b83a",
-     "bytes": 49327
+     "sha256": "cf10910b06318a4dca04ffa82f0e135d91c664e78d654e22c545ce630b6e86ba",
+     "bytes": 49301
     }
    ],
    "case": {
