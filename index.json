@@ -2186,6 +2186,80 @@
    ]
   },
   {
+   "id": "pd-neut-cwl_cosio-d20-d20-data",
+   "kind": "data",
+   "name": "Co₂SiO₄ [Pnma]",
+   "description": "Olivine · Coordinates, displacements and oxygen occupancies",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/pd-neut-cwl_cosio-d20-d20.xye",
+     "format": "xye",
+     "sha256": "72ff3c5902cc9e87b7a9a6f4d87081e6367f1477a7958914e3d89c87ddc164e9",
+     "bytes": 31640
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-cwl_lbco-hrpt-hrpt-data",
+   "kind": "data",
+   "name": "La₀.₅Ba₀.₅CoO₃ [Pm-3m]",
+   "description": "Cubic perovskite · La and Ba sharing one site · Profile, background, displacements",
+   "formula": "Ba Co La O",
+   "elements": [
+    "Ba",
+    "Co",
+    "La",
+    "O"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "HRPT",
+   "facility": "PSI",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/pd-neut-cwl_lbco-hrpt-hrpt.xye",
+     "format": "xye",
+     "sha256": "83c7f3d27d2e254367dd7dc3730261b9a5ebb811baaeed01fde050a7ba99be24",
+     "bytes": 45384
+    }
+   ]
+  },
+  {
+   "id": "pd-neut-tof_si-sepd-sepd-data",
+   "kind": "data",
+   "name": "Silicon [Fd-3m]",
+   "description": "Silicon standard · Jorgensen–Von Dreele profile · Time-of-flight neutron powder data",
+   "formula": "Si",
+   "elements": [
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "powder time-of-flight",
+   "instrument": "SEPD",
+   "facility": "Argonne",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/pd-neut-tof_si-sepd-sepd.xye",
+     "format": "xye",
+     "sha256": "f832db3d56b8d5e635d41fa6aca627f1d18f130b91b7e716c7e0fffe6ca12a0d",
+     "bytes": 95744
+    }
+   ]
+  },
+  {
    "id": "pd-neut-cwl_cosio-d20",
    "kind": "project",
    "name": "Co₂SiO₄ [Pnma]",
