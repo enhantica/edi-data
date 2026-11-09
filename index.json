@@ -975,6 +975,96 @@
    ]
   },
   {
+   "id": "sc-neut-cwl_cosio-heidi-cosio_2k5",
+   "kind": "structure",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    10.2864,
+    5.9872,
+    4.7785,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/sc-neut-cwl_cosio-heidi-cosio_2k5.edi",
+     "format": "edi",
+     "sha256": "1a0d69436ecc043b523edc7d7f5c43de1754969e906f30f577c5237909c96569",
+     "bytes": 2253
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_cosio-heidi-cosio_300k",
+   "kind": "structure",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    10.3005,
+    6.0028,
+    4.7816,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/sc-neut-cwl_cosio-heidi-cosio_300k.edi",
+     "format": "edi",
+     "sha256": "2fd26bc4d305b15beccfeabaa8391d3ec33845624501443e783774fbed58fe5d",
+     "bytes": 1109
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_cosio-heidi-cosio_55k",
+   "kind": "structure",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "space_group": "P n m a",
+   "cell": [
+    10.2869,
+    5.9889,
+    4.7781,
+    90.0,
+    90.0,
+    90.0
+   ],
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "structures/sc-neut-cwl_cosio-heidi-cosio_55k.edi",
+     "format": "edi",
+     "sha256": "2cbf27891099826ff14e4b1817fcbbc9ef328966696e671b41635c570328dcfb",
+     "bytes": 1109
+    }
+   ]
+  },
+  {
    "id": "sc-neut-cwl_pr2nio4-5c2-pr2nio4",
    "kind": "structure",
    "name": "Pr₂NiO₄ [Fmmm]",
@@ -1924,6 +2014,90 @@
    ]
   },
   {
+   "id": "sc-neut-cwl_cosio-heidi-heidi_2k5",
+   "kind": "experiment",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "structures": [
+    "sc-neut-cwl_cosio-heidi-cosio_2k5"
+   ],
+   "files": [
+    {
+     "path": "experiments/sc-neut-cwl_cosio-heidi-heidi_2k5.edi",
+     "format": "edi",
+     "sha256": "398b01a6e461ce2dc8e622bf836a9d84eb13a4c4e67099e8c79c7f953f666d08",
+     "bytes": 33380
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_cosio-heidi-heidi_300k",
+   "kind": "experiment",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "structures": [
+    "sc-neut-cwl_cosio-heidi-cosio_300k"
+   ],
+   "files": [
+    {
+     "path": "experiments/sc-neut-cwl_cosio-heidi-heidi_300k.edi",
+     "format": "edi",
+     "sha256": "b6223d3a5a943ccaaafa1971b7b2ddce91f3e43962cbc8447b66fc27018ca965",
+     "bytes": 37796
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_cosio-heidi-heidi_55k",
+   "kind": "experiment",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "structures": [
+    "sc-neut-cwl_cosio-heidi-cosio_55k"
+   ],
+   "files": [
+    {
+     "path": "experiments/sc-neut-cwl_cosio-heidi-heidi_55k.edi",
+     "format": "edi",
+     "sha256": "bb9ae92f454146e7c6a7baa1dd248c42696acd620a624504a808a9a9854a3102",
+     "bytes": 33223
+    }
+   ]
+  },
+  {
    "id": "sc-neut-cwl_pr2nio4-5c2-llb_5c2",
    "kind": "experiment",
    "name": "Pr₂NiO₄ [Fmmm]",
@@ -2160,32 +2334,6 @@
    ]
   },
   {
-   "id": "tutorial-hrpt",
-   "kind": "data",
-   "name": "La0.5Ba0.5CoO3 pattern from HRPT",
-   "description": "The onboarding tutorials' input",
-   "formula": "Ba Co La O",
-   "elements": [
-    "Ba",
-    "Co",
-    "La",
-    "O"
-   ],
-   "radiation": "neutron",
-   "technique": "powder constant wavelength",
-   "instrument": "HRPT",
-   "facility": "PSI",
-   "source": "EasyDiffraction",
-   "files": [
-    {
-     "path": "data/tutorial-hrpt.xye",
-     "format": "xye",
-     "sha256": "70dba3f642b394f0e7e7802a8637e0e287164562671993ee0701b813c902e360",
-     "bytes": 83671
-    }
-   ]
-  },
-  {
    "id": "pd-neut-cwl_cosio-d20-d20-data",
    "kind": "data",
    "name": "Co₂SiO₄ [Pnma]",
@@ -2260,6 +2408,107 @@
    ]
   },
   {
+   "id": "sc-neut-cwl_cosio-heidi-heidi_2k5-data",
+   "kind": "data",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-cwl_cosio-heidi-heidi_2k5.hkl",
+     "format": "hkl",
+     "sha256": "803fd29e09e0054625e28da8a7b1c2ab6777e1043ae856f55632383ff90c0299",
+     "bytes": 70356
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_cosio-heidi-heidi_300k-data",
+   "kind": "data",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-cwl_cosio-heidi-heidi_300k.hkl",
+     "format": "hkl",
+     "sha256": "dcdab63cec3fd6c989adf54026200802ac58f733b9f60f639342323b0f85b6ff",
+     "bytes": 81377
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_cosio-heidi-heidi_55k-data",
+   "kind": "data",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-cwl_cosio-heidi-heidi_55k.hkl",
+     "format": "hkl",
+     "sha256": "b8db9c18892623bd8df3f064f4767be1dcba671879af0f1d97e065cbb8815371",
+     "bytes": 73426
+    }
+   ]
+  },
+  {
+   "id": "tutorial-hrpt",
+   "kind": "data",
+   "name": "La0.5Ba0.5CoO3 pattern from HRPT",
+   "description": "The onboarding tutorials' input",
+   "formula": "Ba Co La O",
+   "elements": [
+    "Ba",
+    "Co",
+    "La",
+    "O"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "HRPT",
+   "facility": "PSI",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/tutorial-hrpt.xye",
+     "format": "xye",
+     "sha256": "70dba3f642b394f0e7e7802a8637e0e287164562671993ee0701b813c902e360",
+     "bytes": 83671
+    }
+   ]
+  },
+  {
    "id": "pd-neut-cwl_cosio-d20",
    "kind": "project",
    "name": "Co₂SiO₄ [Pnma]",
@@ -2282,7 +2531,82 @@
      "sha256": "5b3280fb4fa62dd07b429cea03a739c07e0a4ba4258de3654375b39f27c89676",
      "bytes": 14170
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-cwl_cosio-d20",
+    "order": 4,
+    "title": "Co₂SiO₄ on D20",
+    "nav_title": "Co₂SiO₄ pd-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-cosio-d20",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-cwl_cosio-d20-cosio"
+    ],
+    "experiments": [
+     "pd-neut-cwl_cosio-d20-d20"
+    ],
+    "data": [
+     "pd-neut-cwl_cosio-d20-d20-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-cwl_cosio-d20.ipynb",
+     "app": "pd-neut-cwl_cosio-d20",
+     "app_docs": "docs/user/app/pd-neut-cwl_cosio-d20.md",
+     "cli_docs": "docs/user/cli/pd-neut-cwl_cosio-d20/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-cwl_cosio-d20_2k",
@@ -2307,7 +2631,87 @@
      "sha256": "81ff7c54b5910a3af77c7378a37aae866c3d8dfdc3f191956de7d60d8ab35da5",
      "bytes": 16109
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-cwl_cosio-d20_2k",
+    "order": 5,
+    "title": "Co₂SiO₄ on D20 at 2.3 K",
+    "nav_title": "Co₂SiO₄ 2.3 K pd-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-cosio-d20",
+     "match": "follows"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     },
+     {
+      "facet": "structure",
+      "value": "magnetic",
+      "label": "Magnetic"
+     }
+    ],
+    "structures": [
+     "pd-neut-cwl_cosio-d20_2k-cosio"
+    ],
+    "experiments": [
+     "pd-neut-cwl_cosio-d20_2k-d20"
+    ],
+    "data": [
+     "pd-neut-cwl_cosio-d20_2k-d20-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-cwl_cosio-d20_2k.ipynb",
+     "app": "pd-neut-cwl_cosio-d20_2k",
+     "app_docs": "docs/user/app/pd-neut-cwl_cosio-d20_2k.md",
+     "cli_docs": "docs/user/cli/pd-neut-cwl_cosio-d20_2k/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-cwl_cosio-d20_scan-213f",
@@ -2332,7 +2736,87 @@
      "sha256": "6c9ea75d37f004360d562d21c369c6e55f97660d0c7b3b1341f4b04532455edb",
      "bytes": 3359271
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-cwl_cosio-d20_scan-213f",
+    "order": 18,
+    "title": "Co₂SiO₄ on D20, cooling scan",
+    "nav_title": "Co₂SiO₄ pd-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-cosio-d20-tscan",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "sequential",
+      "label": "Sequential"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     },
+     {
+      "facet": "structure",
+      "value": "magnetic",
+      "label": "Magnetic"
+     }
+    ],
+    "structures": [
+     "pd-neut-cwl_cosio-d20_scan-213f-cosio"
+    ],
+    "experiments": [
+     "pd-neut-cwl_cosio-d20_scan-213f-d20"
+    ],
+    "data": [
+     "pd-neut-cwl_cosio-d20_scan-213f-d20-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Multiple datasets",
+    "section_icon": "layer-group",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-cwl_cosio-d20_scan-213f.ipynb",
+     "app": "pd-neut-cwl_cosio-d20_scan-213f",
+     "app_docs": "docs/user/app/pd-neut-cwl_cosio-d20_scan-213f.md",
+     "cli_docs": "docs/user/cli/pd-neut-cwl_cosio-d20_scan-213f/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-cwl_cosio-d20_scan",
@@ -2383,7 +2867,82 @@
      "sha256": "b116b81fff93de691c2c3f2f887260ec6ecca6d28d291c80eec1c923b2739fe6",
      "bytes": 19789
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-cwl_hs-hrpt",
+    "order": 3,
+    "title": "ZnCu₃(OD)₆Cl₂ on HRPT",
+    "nav_title": "HS pd-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-hs-hrpt",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-cwl_hs-hrpt-hs"
+    ],
+    "experiments": [
+     "pd-neut-cwl_hs-hrpt-hrpt"
+    ],
+    "data": [
+     "pd-neut-cwl_hs-hrpt-hrpt-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-cwl_hs-hrpt.ipynb",
+     "app": "pd-neut-cwl_hs-hrpt",
+     "app_docs": "docs/user/app/pd-neut-cwl_hs-hrpt.md",
+     "cli_docs": "docs/user/cli/pd-neut-cwl_hs-hrpt/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-cwl_lbco-hrpt",
@@ -2409,7 +2968,82 @@
      "sha256": "9c59e42b0efd7f0f81345600519771fea4d659a0b305a51d5014976ef17323f9",
      "bytes": 15873
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-cwl_lbco-hrpt",
+    "order": 2,
+    "title": "La₀.₅Ba₀.₅CoO₃ on HRPT",
+    "nav_title": "LBCO pd-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-lbco-hrpt-from-data",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-cwl_lbco-hrpt-lbco"
+    ],
+    "experiments": [
+     "pd-neut-cwl_lbco-hrpt-hrpt"
+    ],
+    "data": [
+     "pd-neut-cwl_lbco-hrpt-hrpt-data"
+    ],
+    "structure_from": "hand",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Getting started",
+    "section_icon": "rocket",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-cwl_lbco-hrpt.ipynb",
+     "app": "pd-neut-cwl_lbco-hrpt",
+     "app_docs": "docs/user/app/pd-neut-cwl_lbco-hrpt.md",
+     "cli_docs": "docs/user/cli/pd-neut-cwl_lbco-hrpt/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-cwl_lbco_simulation",
@@ -2435,7 +3069,80 @@
      "sha256": "94a8951bcfcaf3a1ad906fb743a68df521519d51f197730b4680025597aacc15",
      "bytes": 1551
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-cwl_lbco_simulation",
+    "order": 1,
+    "title": "La₀.₅Ba₀.₅CoO₃ on HRPT",
+    "nav_title": "LBCO pd-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "simulate-lbco-cwl",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "simulation",
+      "label": "Simulation"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-cwl_lbco_simulation-lbco"
+    ],
+    "experiments": [
+     "pd-neut-cwl_lbco_simulation-hrpt"
+    ],
+    "data": [],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Simulation",
+    "section_icon": "calculator",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-cwl_lbco_simulation.ipynb",
+     "app": "pd-neut-cwl_lbco_simulation",
+     "app_docs": "docs/user/app/pd-neut-cwl_lbco_simulation.md",
+     "cli_docs": "docs/user/cli/pd-neut-cwl_lbco_simulation/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-cwl_lmo-echidna",
@@ -2460,7 +3167,82 @@
      "sha256": "46b9f07363c1e4c1591c0f05c13917b87a4745889b3e1a83aaff56dd350f17a9",
      "bytes": 38811
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-cwl_lmo-echidna",
+    "order": 6,
+    "title": "LiNiO₂ on ECHIDNA",
+    "nav_title": "LiNiO₂ pd-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-lmo-echidna",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-cwl_lmo-echidna-lmo"
+    ],
+    "experiments": [
+     "pd-neut-cwl_lmo-echidna-echidna"
+    ],
+    "data": [
+     "pd-neut-cwl_lmo-echidna-echidna-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-cwl_lmo-echidna.ipynb",
+     "app": "pd-neut-cwl_lmo-echidna",
+     "app_docs": "docs/user/app/pd-neut-cwl_lmo-echidna.md",
+     "cli_docs": "docs/user/cli/pd-neut-cwl_lmo-echidna/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-cwl_y2o3-spodi",
@@ -2484,7 +3266,82 @@
      "sha256": "ca9855324fff4d3719b65b9553cd1c8fae75947d62df9df76ab00a6076989c4e",
      "bytes": 17688
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-cwl_y2o3-spodi",
+    "order": 7,
+    "title": "Y₂O₃ on SPODI",
+    "nav_title": "Y₂O₃ pd-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-hs-hrpt",
+     "match": "follows"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-cwl_y2o3-spodi-y2o3"
+    ],
+    "experiments": [
+     "pd-neut-cwl_y2o3-spodi-spodi"
+    ],
+    "data": [
+     "pd-neut-cwl_y2o3-spodi-spodi-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-cwl_y2o3-spodi.ipynb",
+     "app": "pd-neut-cwl_y2o3-spodi",
+     "app_docs": "docs/user/app/pd-neut-cwl_y2o3-spodi.md",
+     "cli_docs": "docs/user/cli/pd-neut-cwl_y2o3-spodi/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-cwl_yalo3-al2o3-spodi",
@@ -2509,7 +3366,83 @@
      "sha256": "c2ebe2b0b6598cd1c46e576c28399515e105f7317ba3a71154a8e9d4c3a74866",
      "bytes": 18940
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-cwl_yalo3-al2o3-spodi",
+    "order": 8,
+    "title": "YAlO₃ and Al₂O₃ on SPODI",
+    "nav_title": "YAlO₃+Al₂O₃ pd-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-yap-3k",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-cwl_yalo3-al2o3-spodi-Al2O3",
+     "pd-neut-cwl_yalo3-al2o3-spodi-YAlO3"
+    ],
+    "experiments": [
+     "pd-neut-cwl_yalo3-al2o3-spodi-spodi"
+    ],
+    "data": [
+     "pd-neut-cwl_yalo3-al2o3-spodi-spodi-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-cwl_yalo3-al2o3-spodi.ipynb",
+     "app": "pd-neut-cwl_yalo3-al2o3-spodi",
+     "app_docs": "docs/user/app/pd-neut-cwl_yalo3-al2o3-spodi.md",
+     "cli_docs": "docs/user/cli/pd-neut-cwl_yalo3-al2o3-spodi/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-cwl_yap-spodi_3k",
@@ -2559,7 +3492,82 @@
      "sha256": "2e4d2e90c91541f899f40afc11f86a1ed84b931ce41a62a9d8b62bb731f7a36c",
      "bytes": 36687
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-tof_cecoal-polaris",
+    "order": 10,
+    "title": "CeCoAl₃ on POLARIS",
+    "nav_title": "CeCoAl₃ pd-neut-tof",
+    "diffraction_lib": {
+     "tutorial": "refine-ncaf-wish",
+     "match": "follows"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "time-of-flight",
+      "label": "tof"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-tof_cecoal-polaris-cecoal"
+    ],
+    "experiments": [
+     "pd-neut-tof_cecoal-polaris-polaris"
+    ],
+    "data": [
+     "pd-neut-tof_cecoal-polaris-polaris-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-tof_cecoal-polaris.ipynb",
+     "app": "pd-neut-tof_cecoal-polaris",
+     "app_docs": "docs/user/app/pd-neut-tof_cecoal-polaris.md",
+     "cli_docs": "docs/user/cli/pd-neut-tof_cecoal-polaris/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-tof_ceo2-pearl",
@@ -2583,7 +3591,82 @@
      "sha256": "789f0e961a3dfbee20e47c6bd7b5b6016fa80938da0bd248b6ebd93bfcdb741b",
      "bytes": 32943
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-tof_ceo2-pearl",
+    "order": 11,
+    "title": "CeO₂ on PEARL",
+    "nav_title": "CeO₂ pd-neut-tof",
+    "diffraction_lib": {
+     "tutorial": "refine-si-sepd",
+     "match": "follows"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "time-of-flight",
+      "label": "tof"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-tof_ceo2-pearl-ceo2"
+    ],
+    "experiments": [
+     "pd-neut-tof_ceo2-pearl-pearl"
+    ],
+    "data": [
+     "pd-neut-tof_ceo2-pearl-pearl-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-tof_ceo2-pearl.ipynb",
+     "app": "pd-neut-tof_ceo2-pearl",
+     "app_docs": "docs/user/app/pd-neut-tof_ceo2-pearl.md",
+     "cli_docs": "docs/user/cli/pd-neut-tof_ceo2-pearl/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-tof_ferrite-austenite-beer",
@@ -2606,7 +3689,85 @@
      "sha256": "975c2a145911ed41dd98dc238bfb22aeea9b1cc8ba07e78f743ea4ba7186c136",
      "bytes": 173814
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-tof_ferrite-austenite-beer",
+    "order": 14,
+    "title": "Ferrite and austenite on BEER",
+    "nav_title": "α-Fe+γ-Fe pd-neut-tof",
+    "diffraction_lib": {
+     "tutorial": "refine-lbco-si-mcstas",
+     "match": "follows"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "joint",
+      "label": "Joint"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "time-of-flight",
+      "label": "tof"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-tof_ferrite-austenite-beer-austenite",
+     "pd-neut-tof_ferrite-austenite-beer-ferrite"
+    ],
+    "experiments": [
+     "pd-neut-tof_ferrite-austenite-beer-expt_n2",
+     "pd-neut-tof_ferrite-austenite-beer-expt_s2"
+    ],
+    "data": [
+     "pd-neut-tof_ferrite-austenite-beer-expt_n2-data",
+     "pd-neut-tof_ferrite-austenite-beer-expt_s2-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Multiple datasets",
+    "section_icon": "layer-group",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-tof_ferrite-austenite-beer.ipynb",
+     "app": "pd-neut-tof_ferrite-austenite-beer",
+     "app_docs": "docs/user/app/pd-neut-tof_ferrite-austenite-beer.md",
+     "cli_docs": "docs/user/cli/pd-neut-tof_ferrite-austenite-beer/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-tof_lbco-si-mcstas",
@@ -2632,7 +3793,83 @@
      "sha256": "ce246aceb88989ae314fcecaf2493fa131ae98d1176ead1aff97d5074487a751",
      "bytes": 35199
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-tof_lbco-si-mcstas",
+    "order": 12,
+    "title": "La₀.₅Ba₀.₅CoO₃ and Si on a McStas instrument",
+    "nav_title": "LBCO+Si pd-neut-tof",
+    "diffraction_lib": {
+     "tutorial": "refine-lbco-si-mcstas",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "time-of-flight",
+      "label": "tof"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-tof_lbco-si-mcstas-lbco",
+     "pd-neut-tof_lbco-si-mcstas-si"
+    ],
+    "experiments": [
+     "pd-neut-tof_lbco-si-mcstas-mcstas"
+    ],
+    "data": [
+     "pd-neut-tof_lbco-si-mcstas-mcstas-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-tof_lbco-si-mcstas.ipynb",
+     "app": "pd-neut-tof_lbco-si-mcstas",
+     "app_docs": "docs/user/app/pd-neut-tof_lbco-si-mcstas.md",
+     "cli_docs": "docs/user/cli/pd-neut-tof_lbco-si-mcstas/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-tof_ncaf-wish",
@@ -2658,7 +3895,90 @@
      "sha256": "fd64cba699ae1e10997cc34d854e06cf9d0e2ad6a016519074b6948f5f30cc9c",
      "bytes": 273761
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-tof_ncaf-wish",
+    "order": 13,
+    "title": "Na₂Ca₃Al₂F₁₄ on WISH",
+    "nav_title": "NCAF pd-neut-tof",
+    "diffraction_lib": {
+     "tutorial": "refine-ncaf-wish",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "joint",
+      "label": "Joint"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "time-of-flight",
+      "label": "tof"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-tof_ncaf-wish-ncaf"
+    ],
+    "experiments": [
+     "pd-neut-tof_ncaf-wish-wish_1_10",
+     "pd-neut-tof_ncaf-wish-wish_2_9",
+     "pd-neut-tof_ncaf-wish-wish_3_8",
+     "pd-neut-tof_ncaf-wish-wish_4_7",
+     "pd-neut-tof_ncaf-wish-wish_5_6"
+    ],
+    "data": [
+     "pd-neut-tof_ncaf-wish-wish_1_10-data",
+     "pd-neut-tof_ncaf-wish-wish_2_9-data",
+     "pd-neut-tof_ncaf-wish-wish_3_8-data",
+     "pd-neut-tof_ncaf-wish-wish_4_7-data",
+     "pd-neut-tof_ncaf-wish-wish_5_6-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Multiple datasets",
+    "section_icon": "layer-group",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-tof_ncaf-wish.ipynb",
+     "app": "pd-neut-tof_ncaf-wish",
+     "app_docs": "docs/user/app/pd-neut-tof_ncaf-wish.md",
+     "cli_docs": "docs/user/cli/pd-neut-tof_ncaf-wish/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-tof_si-sepd",
@@ -2681,7 +4001,83 @@
      "sha256": "18f1bb4c2393870c11f1cae7b91e6929c1b41fabac08fa11402625532e9e5d3b",
      "bytes": 33233
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-tof_si-sepd",
+    "order": 9,
+    "title": "Si on SEPD",
+    "nav_title": "Si pd-neut-tof",
+    "diffraction_lib": {
+     "tutorial": "refine-si-sepd",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "time-of-flight",
+      "label": "tof"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-tof_si-sepd-si"
+    ],
+    "experiments": [
+     "pd-neut-tof_si-sepd-sepd"
+    ],
+    "data": [
+     "pd-neut-tof_si-sepd-sepd-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection",
+     "file"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-tof_si-sepd.ipynb",
+     "app": "pd-neut-tof_si-sepd",
+     "app_docs": "docs/user/app/pd-neut-tof_si-sepd.md",
+     "cli_docs": "docs/user/cli/pd-neut-tof_si-sepd/index.md"
+    }
+   }
   },
   {
    "id": "pd-neut-tof_si_simulation",
@@ -2727,7 +4123,89 @@
      "sha256": "98913762c0651a45645f40ba56b2e07cf9c55a0bb434137922d2751bfacfda3c",
      "bytes": 57306
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-neut-xray-cwl_pbso4-d1a-lab",
+    "order": 17,
+    "title": "PbSO₄ on D1A and a laboratory diffractometer",
+    "nav_title": "PbSO₄ pd-neut-xray-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-pbso4-joint",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "joint",
+      "label": "Joint"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "probe",
+      "value": "xray",
+      "label": "xray"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-neut-xray-cwl_pbso4-d1a-lab-pbso4"
+    ],
+    "experiments": [
+     "pd-neut-xray-cwl_pbso4-d1a-lab-d1a",
+     "pd-neut-xray-cwl_pbso4-d1a-lab-lab"
+    ],
+    "data": [
+     "pd-neut-xray-cwl_pbso4-d1a-lab-d1a-data",
+     "pd-neut-xray-cwl_pbso4-d1a-lab-lab-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Multiple datasets",
+    "section_icon": "layer-group",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-neut-xray-cwl_pbso4-d1a-lab.ipynb",
+     "app": "pd-neut-xray-cwl_pbso4-d1a-lab",
+     "app_docs": "docs/user/app/pd-neut-xray-cwl_pbso4-d1a-lab.md",
+     "cli_docs": "docs/user/cli/pd-neut-xray-cwl_pbso4-d1a-lab/index.md"
+    }
+   }
   },
   {
    "id": "pd-xray-cwl_lam7o3-p021",
@@ -2758,7 +4236,82 @@
      "sha256": "1cdab9a39807752f6a50ddb0b1cdf468cce2a12889206273a6c82adcdac87ab5",
      "bytes": 22244
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-xray-cwl_lam7o3-p021",
+    "order": 16,
+    "title": "La(Ti,Cr,Mn,Fe,Co,Ni,Cu)O₃ on P02.1",
+    "nav_title": "LaM₇O₃ pd-xray-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-lam7o3-p021",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "xray",
+      "label": "xray"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-xray-cwl_lam7o3-p021-lam7o3"
+    ],
+    "experiments": [
+     "pd-xray-cwl_lam7o3-p021-p021"
+    ],
+    "data": [
+     "pd-xray-cwl_lam7o3-p021-p021-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-xray-cwl_lam7o3-p021.ipynb",
+     "app": "pd-xray-cwl_lam7o3-p021",
+     "app_docs": "docs/user/app/pd-xray-cwl_lam7o3-p021.md",
+     "cli_docs": "docs/user/cli/pd-xray-cwl_lam7o3-p021/index.md"
+    }
+   }
   },
   {
    "id": "pd-xray-cwl_latp-bm01_scan",
@@ -2785,7 +4338,84 @@
      "sha256": "a0644c8ac0a927f8e85fddb49cefb81ec631f3b4f0585c54a40eab64f2df2300",
      "bytes": 3293463
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-xray-cwl_latp-bm01_scan",
+    "order": 19,
+    "title": "LATP and AlPO₄ on BM01",
+    "nav_title": "LATP+AlPO₄ pd-xray-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-cosio-d20-tscan",
+     "match": "follows"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "sequential",
+      "label": "Sequential"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "xray",
+      "label": "xray"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-xray-cwl_latp-bm01_scan-alpo4_c2221",
+     "pd-xray-cwl_latp-bm01_scan-alpo4_p63mc",
+     "pd-xray-cwl_latp-bm01_scan-latp"
+    ],
+    "experiments": [
+     "pd-xray-cwl_latp-bm01_scan-bm01"
+    ],
+    "data": [
+     "pd-xray-cwl_latp-bm01_scan-bm01-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Multiple datasets",
+    "section_icon": "layer-group",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-xray-cwl_latp-bm01_scan.ipynb",
+     "app": "pd-xray-cwl_latp-bm01_scan",
+     "app_docs": "docs/user/app/pd-xray-cwl_latp-bm01_scan.md",
+     "cli_docs": "docs/user/cli/pd-xray-cwl_latp-bm01_scan/index.md"
+    }
+   }
   },
   {
    "id": "pd-xray-cwl_nacl_simulation",
@@ -2830,7 +4460,189 @@
      "sha256": "c31f41ebb542f87073cb265556fe49501ac9480091c808e19e89d3e569b692c0",
      "bytes": 42726
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "pd-xray-cwl_pbso4-lab",
+    "order": 15,
+    "title": "PbSO₄ on a laboratory diffractometer",
+    "nav_title": "PbSO₄ pd-xray-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-pbso4-xray",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "powder",
+      "label": "pd"
+     },
+     {
+      "facet": "probe",
+      "value": "xray",
+      "label": "xray"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "pd-xray-cwl_pbso4-lab-pbso4"
+    ],
+    "experiments": [
+     "pd-xray-cwl_pbso4-lab-lab"
+    ],
+    "data": [
+     "pd-xray-cwl_pbso4-lab-lab-data"
+    ],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Powder",
+    "section_icon": "chart-area",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/pd-xray-cwl_pbso4-lab.ipynb",
+     "app": "pd-xray-cwl_pbso4-lab",
+     "app_docs": "docs/user/app/pd-xray-cwl_pbso4-lab.md",
+     "cli_docs": "docs/user/cli/pd-xray-cwl_pbso4-lab/index.md"
+    }
+   }
+  },
+  {
+   "id": "sc-neut-cwl_cosio-heidi",
+   "kind": "project",
+   "name": "Co₂SiO₄ [Pnma] at 300 K, 55 K and 2.5 K",
+   "description": "Single crystal · Three temperatures fitted independently, moments at 2.5 K",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "projects/sc-neut-cwl_cosio-heidi.zip",
+     "format": "zip",
+     "sha256": "97bb2fe76dfe903cd6845c62a49d29e5d11f30cf12d545481214ce9faef2b83a",
+     "bytes": 49327
+    }
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "sc-neut-cwl_cosio-heidi",
+    "order": 22,
+    "title": "Co₂SiO₄ on HEiDi",
+    "nav_title": "Co₂SiO₄ sc-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-tbti-heidi",
+     "match": "follows"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "independent",
+      "label": "Independent"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "single crystal",
+      "label": "sc"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     },
+     {
+      "facet": "structure",
+      "value": "magnetic",
+      "label": "Magnetic"
+     }
+    ],
+    "structures": [
+     "sc-neut-cwl_cosio-heidi-cosio_2k5",
+     "sc-neut-cwl_cosio-heidi-cosio_300k",
+     "sc-neut-cwl_cosio-heidi-cosio_55k"
+    ],
+    "experiments": [
+     "sc-neut-cwl_cosio-heidi-heidi_2k5",
+     "sc-neut-cwl_cosio-heidi-heidi_300k",
+     "sc-neut-cwl_cosio-heidi-heidi_55k"
+    ],
+    "data": [],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Multiple datasets",
+    "section_icon": "layer-group",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/sc-neut-cwl_cosio-heidi.ipynb",
+     "app": "sc-neut-cwl_cosio-heidi",
+     "app_docs": "docs/user/app/sc-neut-cwl_cosio-heidi.md",
+     "cli_docs": "docs/user/cli/sc-neut-cwl_cosio-heidi/index.md"
+    }
+   }
   },
   {
    "id": "sc-neut-cwl_pr2nio4-5c2",
@@ -2855,7 +4667,80 @@
      "sha256": "2149ccc1afc82db9379ae3b03f0a6bb1e7a6fb40fd6a93566621b1b535a442df",
      "bytes": 4008
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "sc-neut-cwl_pr2nio4-5c2",
+    "order": 21,
+    "title": "Pr₂NiO₄ on 5C2",
+    "nav_title": "Pr₂NiO₄ sc-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-tbti-heidi",
+     "match": "follows"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "single crystal",
+      "label": "sc"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "sc-neut-cwl_pr2nio4-5c2-pr2nio4"
+    ],
+    "experiments": [
+     "sc-neut-cwl_pr2nio4-5c2-llb_5c2"
+    ],
+    "data": [],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Single crystal",
+    "section_icon": "cube",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/sc-neut-cwl_pr2nio4-5c2.ipynb",
+     "app": "sc-neut-cwl_pr2nio4-5c2",
+     "app_docs": "docs/user/app/sc-neut-cwl_pr2nio4-5c2.md",
+     "cli_docs": "docs/user/cli/sc-neut-cwl_pr2nio4-5c2/index.md"
+    }
+   }
   },
   {
    "id": "sc-neut-cwl_tb2ti2o7-heidi",
@@ -2880,7 +4765,80 @@
      "sha256": "367eb872556748ec5ead2fb2618c13f5a813437f3445232e533cb86a71a98d42",
      "bytes": 4602
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "sc-neut-cwl_tb2ti2o7-heidi",
+    "order": 20,
+    "title": "Tb₂Ti₂O₇ on HEiDi",
+    "nav_title": "Tb₂Ti₂O₇ sc-neut-cwl",
+    "diffraction_lib": {
+     "tutorial": "refine-tbti-heidi",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "single",
+      "label": "Single"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "single crystal",
+      "label": "sc"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "constant wavelength",
+      "label": "cwl"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "sc-neut-cwl_tb2ti2o7-heidi-tb2ti2o7"
+    ],
+    "experiments": [
+     "sc-neut-cwl_tb2ti2o7-heidi-heidi"
+    ],
+    "data": [],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Single crystal",
+    "section_icon": "cube",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/sc-neut-cwl_tb2ti2o7-heidi.ipynb",
+     "app": "sc-neut-cwl_tb2ti2o7-heidi",
+     "app_docs": "docs/user/app/sc-neut-cwl_tb2ti2o7-heidi.md",
+     "cli_docs": "docs/user/cli/sc-neut-cwl_tb2ti2o7-heidi/index.md"
+    }
+   }
   },
   {
    "id": "sc-neut-tof_taurine-senju",
@@ -2907,7 +4865,85 @@
      "sha256": "c6ab72562ced91c562ce2e783c50db86d96224d362e28c64de82b93a2b0576ee",
      "bytes": 23599
     }
-   ]
+   ],
+   "case": {
+    "schema": "edi-case/1",
+    "id": "sc-neut-tof_taurine-senju",
+    "order": 23,
+    "title": "Taurine on SENJU",
+    "nav_title": "C₂H₇NO₃S sc-neut-tof",
+    "diffraction_lib": {
+     "tutorial": "refine-taurine-senju",
+     "match": "same"
+    },
+    "tags": [
+     {
+      "facet": "purpose",
+      "value": "refinement",
+      "label": "Fitting"
+     },
+     {
+      "facet": "fittingMode",
+      "value": "joint",
+      "label": "Joint"
+     },
+     {
+      "facet": "sampleForm",
+      "value": "single crystal",
+      "label": "sc"
+     },
+     {
+      "facet": "probe",
+      "value": "neutron",
+      "label": "neut"
+     },
+     {
+      "facet": "beamMode",
+      "value": "time-of-flight",
+      "label": "tof"
+     },
+     {
+      "facet": "scatteringType",
+      "value": "bragg",
+      "label": "Bragg"
+     },
+     {
+      "facet": "structure",
+      "value": "crystal",
+      "label": "Crystal"
+     }
+    ],
+    "structures": [
+     "sc-neut-tof_taurine-senju-taurine"
+    ],
+    "experiments": [
+     "sc-neut-tof_taurine-senju-senju_1",
+     "sc-neut-tof_taurine-senju-senju_2",
+     "sc-neut-tof_taurine-senju-senju_3",
+     "sc-neut-tof_taurine-senju-senju_4",
+     "sc-neut-tof_taurine-senju-senju_5",
+     "sc-neut-tof_taurine-senju-senju_6"
+    ],
+    "data": [],
+    "structure_from": "collection",
+    "data_from": [
+     "collection"
+    ],
+    "section": "Multiple datasets",
+    "section_icon": "layer-group",
+    "pin": null,
+    "interfaces": [
+     "app",
+     "python",
+     "cli"
+    ],
+    "tutorials": {
+     "python": "docs/user/tutorials/sc-neut-tof_taurine-senju.ipynb",
+     "app": "sc-neut-tof_taurine-senju",
+     "app_docs": "docs/user/app/sc-neut-tof_taurine-senju.md",
+     "cli_docs": "docs/user/cli/sc-neut-tof_taurine-senju/index.md"
+    }
+   }
   }
  ]
 }
