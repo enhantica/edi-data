@@ -1,6 +1,0 @@
-{
- "id": "pd-xray-cwl_nacl_simulation-nacl",
- "name": "NaCl [Fm-3m]",
- "description": "Rock salt · Simulated Cu Kα₁ pattern without measured data · Monochromator polarization",
- "source": "EasyDiffraction"
-}
