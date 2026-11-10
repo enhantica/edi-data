@@ -2906,7 +2906,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -3006,12 +3006,12 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      },
      {
       "facet": "structure",
       "value": "magnetic",
-      "label": "Magnetic"
+      "label": "Magnetic structure"
      }
     ],
     "structures": [
@@ -3111,12 +3111,12 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      },
      {
       "facet": "structure",
       "value": "magnetic",
-      "label": "Magnetic"
+      "label": "Magnetic structure"
      }
     ],
     "structures": [
@@ -3217,7 +3217,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -3318,7 +3318,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -3419,7 +3419,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -3517,7 +3517,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -3616,7 +3616,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -3668,8 +3668,8 @@
     {
      "path": "projects/pd-neut-cwl_yalo3-al2o3-spodi.zip",
      "format": "zip",
-     "sha256": "fe73ba68847432b32176a3009308d59ed063902e54f5a4af1c6327241f97c15c",
-     "bytes": 18952
+     "sha256": "5ae8d5ec72daaa11f194a38ef8788cac926fd67ee87fc612a770232219bae7f2",
+     "bytes": 18960
     }
    ],
    "case": {
@@ -3716,7 +3716,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -3817,7 +3817,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -3916,7 +3916,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -4014,7 +4014,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -4118,7 +4118,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -4220,7 +4220,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -4326,7 +4326,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -4430,7 +4430,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -4538,7 +4538,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -4640,7 +4640,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -4740,7 +4740,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -4840,12 +4840,12 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      },
      {
       "facet": "structure",
       "value": "magnetic",
-      "label": "Magnetic"
+      "label": "Magnetic structure"
      }
     ],
     "structures": [
@@ -4947,7 +4947,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -5045,7 +5045,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -5143,7 +5143,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
@@ -5243,7 +5243,7 @@
      {
       "facet": "structure",
       "value": "crystal",
-      "label": "Crystal"
+      "label": "Crystal structure"
      }
     ],
     "structures": [
