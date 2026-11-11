@@ -1,0 +1,57 @@
+name: Publish the mirror
+
+# data.easydiffraction.org serves the deploy-data branch of edi-sites, which its host pulls through a webhook.
+# Every push to main copies this repository's files there, with the headers the app and notebooks need to read
+# them from another origin.
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: deploy-data
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v5
+      - name: Mint a token for edi-sites
+        id: sites-token
+        uses: actions/create-github-app-token@v2
+        with:
+          app-id: ${{ vars.ENHANTICA_APP_ID }}
+          private-key: ${{ secrets.ENHANTICA_APP_KEY }}
+          owner: enhantica
+          repositories: edi-sites
+      # Each update is one commit on top of the last, so git sends only what changed.
+      - name: Update the deploy-data branch
+        env:
+          SITES_TOKEN: ${{ steps.sites-token.outputs.token }}
+        run: |
+          remote="https://x-access-token:${SITES_TOKEN}@github.com/enhantica/edi-sites.git"
+          work=$(mktemp -d)
+          git -C "$work" init -q
+          if git -C "$work" fetch -q --depth 1 "$remote" refs/heads/deploy-data 2>/dev/null; then
+            git -C "$work" checkout -q --detach FETCH_HEAD
+          else
+            git -C "$work" checkout -q --orphan deploy-data
+          fi
+          rsync -a --delete --exclude .git --exclude .github --exclude .htaccess ./ "$work"/
+          cat >"$work/.htaccess" <<'HTACCESS'
+          # The app and notebooks fetch these files from other origins.
+          <IfModule mod_headers.c>
+            Header set Access-Control-Allow-Origin "*"
+            Header set Cross-Origin-Resource-Policy "cross-origin"
+          </IfModule>
+          HTACCESS
+          cd "$work"
+          git add -A
+          if git rev-parse -q --verify HEAD >/dev/null && git diff --cached --quiet; then echo "up to date"; exit 0; fi
+          git -c user.name='github-actions[bot]' -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+            commit -q -m "Publish edi-data ${GITHUB_SHA::7}"
+          git push -q "$remote" HEAD:refs/heads/deploy-data
