@@ -2211,6 +2211,31 @@
    ]
   },
   {
+   "id": "pd-neut-cwl_cosio-d20_scan-213f-scan",
+   "kind": "data",
+   "name": "Co₂SiO₄ [Pnma.1]",
+   "description": "Cooling scan · 213 patterns from 497.4 to 2.3 K, fitted from 2.3 K up with the magnetic structure",
+   "formula": "Co O Si",
+   "elements": [
+    "Co",
+    "O",
+    "Si"
+   ],
+   "radiation": "neutron",
+   "technique": "powder constant wavelength",
+   "instrument": "D20",
+   "facility": "ILL",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/pd-neut-cwl_cosio-d20_scan-213f-scan.zip",
+     "format": "zip",
+     "sha256": "c88dea7c1a3a447da9b3cd1ecefe216fdd3ad5c4c074baeef64449ec60ee3179",
+     "bytes": 3320372
+    }
+   ]
+  },
+  {
    "id": "pd-neut-cwl_hs-hrpt-hrpt-data",
    "kind": "data",
    "name": "ZnCu₃(OD)₆Cl₂ [R-3m]",
@@ -2715,6 +2740,33 @@
    ]
   },
   {
+   "id": "pd-xray-cwl_latp-bm01_scan-scan",
+   "kind": "data",
+   "name": "LATP [R-3c] / AlPO₄ [C222₁] / AlPO₄ [P6₃mc]",
+   "description": "3 phases · 73 synchrotron patterns · Linked displacement parameters",
+   "formula": "Al Li O P Ti",
+   "elements": [
+    "Al",
+    "Li",
+    "O",
+    "P",
+    "Ti"
+   ],
+   "radiation": "xray",
+   "technique": "powder constant wavelength",
+   "instrument": "BM01",
+   "facility": "ESRF",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/pd-xray-cwl_latp-bm01_scan-scan.zip",
+     "format": "zip",
+     "sha256": "4f7b05e4d46a7e076f2265ddec9f310e70e8e8b109eaa69ce39db38f22ef084a",
+     "bytes": 3236625
+    }
+   ]
+  },
+  {
    "id": "pd-xray-cwl_pbso4-lab-lab-data",
    "kind": "data",
    "name": "PbSO₄ [Pnma]",
@@ -2809,6 +2861,218 @@
      "format": "hkl",
      "sha256": "b8db9c18892623bd8df3f064f4767be1dcba671879af0f1d97e065cbb8815371",
      "bytes": 73426
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_pr2nio4-5c2-llb_5c2-data",
+   "kind": "data",
+   "name": "Pr₂NiO₄ [Fmmm]",
+   "description": "Single crystal · Anisotropic displacements and coordinates from a rough start",
+   "formula": "Ni O Pr",
+   "elements": [
+    "Ni",
+    "O",
+    "Pr"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "5C2",
+   "facility": "LLB",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-cwl_pr2nio4-5c2-llb_5c2.hkl",
+     "format": "hkl",
+     "sha256": "5e481bcecf96d7a3f6bab6dbaec2a59e5640a31952c773b90c8862489fc624fb",
+     "bytes": 4327
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-cwl_tb2ti2o7-heidi-heidi-data",
+   "kind": "data",
+   "name": "Tb₂Ti₂O₇ [Fd-3m]",
+   "description": "Single crystal · Anisotropic displacements and extinction from a rough start",
+   "formula": "O Tb Ti",
+   "elements": [
+    "O",
+    "Tb",
+    "Ti"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal constant wavelength",
+   "instrument": "HEiDi",
+   "facility": "MLZ (FRM II)",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-cwl_tb2ti2o7-heidi-heidi.hkl",
+     "format": "hkl",
+     "sha256": "1149f74d113f2a3c2886fe78f9b36bf77b216935da50e3bcec8500b18b85dd5a",
+     "bytes": 5111
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_1-data",
+   "kind": "data",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "formula": "C H N O S",
+   "elements": [
+    "C",
+    "H",
+    "N",
+    "O",
+    "S"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-tof_taurine-senju-senju_1.hkl",
+     "format": "hkl",
+     "sha256": "9373e7d74ba7c67ae5818eebf5a1c93b04b761aca7682f1f88d943ff8c1f5d4b",
+     "bytes": 7196
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_2-data",
+   "kind": "data",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "formula": "C H N O S",
+   "elements": [
+    "C",
+    "H",
+    "N",
+    "O",
+    "S"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-tof_taurine-senju-senju_2.hkl",
+     "format": "hkl",
+     "sha256": "28ac2c43089ad145928482bbaafad8c7db09cddb35b99dce72b1ce2b6247497b",
+     "bytes": 6766
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_3-data",
+   "kind": "data",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "formula": "C H N O S",
+   "elements": [
+    "C",
+    "H",
+    "N",
+    "O",
+    "S"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-tof_taurine-senju-senju_3.hkl",
+     "format": "hkl",
+     "sha256": "a0a89d1f46068ad9c4d8c30db9f6d7e71e51a1d912aeee5ae00b09a959775d35",
+     "bytes": 7128
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_4-data",
+   "kind": "data",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "formula": "C H N O S",
+   "elements": [
+    "C",
+    "H",
+    "N",
+    "O",
+    "S"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-tof_taurine-senju-senju_4.hkl",
+     "format": "hkl",
+     "sha256": "c28bf2e39c6684021702fd0ae6a921a2ac6ef7bd878910d4a16fcce79601696d",
+     "bytes": 5784
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_5-data",
+   "kind": "data",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "formula": "C H N O S",
+   "elements": [
+    "C",
+    "H",
+    "N",
+    "O",
+    "S"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-tof_taurine-senju-senju_5.hkl",
+     "format": "hkl",
+     "sha256": "0ebef806e1359762e642d08ff09cd7f17d1a9d731887d8d1fead158690f3dfd1",
+     "bytes": 6058
+    }
+   ]
+  },
+  {
+   "id": "sc-neut-tof_taurine-senju-senju_6-data",
+   "kind": "data",
+   "name": "Taurine [P2₁/c]",
+   "description": "Single crystal · Time of flight · Six datasets · Anisotropic displacements",
+   "formula": "C H N O S",
+   "elements": [
+    "C",
+    "H",
+    "N",
+    "O",
+    "S"
+   ],
+   "radiation": "neutron",
+   "technique": "single crystal time-of-flight",
+   "instrument": "SENJU",
+   "facility": "J-PARC",
+   "source": "EasyDiffraction",
+   "files": [
+    {
+     "path": "data/sc-neut-tof_taurine-senju-senju_6.hkl",
+     "format": "hkl",
+     "sha256": "e2d4b02c8dfa109201d3b0b769205380a4d20bca635762cee157b418a93e0b51",
+     "bytes": 6466
     }
    ]
   },
